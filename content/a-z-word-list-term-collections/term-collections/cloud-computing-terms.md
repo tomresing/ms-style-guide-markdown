@@ -1,0 +1,46 @@
+---
+title: Cloud-computing terms - Microsoft Style Guide
+description: Describes how to include cloud-computing terms in Microsoft content
+  and provides a table that outlines the usage for various cloud-computing
+  terms.
+author: ProfessorKendrick
+canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/cloud-computing-terms
+ms_date: 2021-12-13T00:00:00Z
+updated_at: 2026-07-06T19:24:00Z
+source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/cloud-computing-terms
+---
+
+## Cloud-computing terms
+
+As cloud computing evolves, the consistent use of its terminology across Microsoft content presents a clear story to customers.
+
+This section covers common cloud-computing terms.
+
+For more information about creating new terms or using emerging terminology, see [Use technical terms carefully](../../word-choice/use-technical-terms-carefully).
+
+| Term | Usage |
+| --- | --- |
+| **as a service (-aaS)** | Use only *as a service (-aaS)* terms included in this term list.      Don’t create new *as a service* terms or *\-aaS* acronyms. Instead, describe the service and what it provides the customer. |
+| **cloud, the cloud** | Don't capitalize *cloud* except in references to the Microsoft Cloud or when it's part of a product name.      Use *cloud* mostly as an adjective. Use sparingly as a noun—instead of *the cloud*, talk about *cloud computing*, *cloud services*, or a specific service or functionality and what the customer can do with it. |
+| **cloud bursting, cloud-bursting** | It’s OK to use *cloud bursting* for technical audiences to mean when a private cloud taps into additional resources on the public cloud to meet a spike in demand. Define on the first mention.      Hyphenate *cloud-bursting* as an adjective preceding a noun, as in *cloud-bursting configuration*. |
+| **cloud computing, cloud platform, cloud services** | Use *cloud computing*, not *the cloud*, to refer generally to the delivery of computing services over the internet.      Use *cloud platform* only in content for a technical audience, such as content about Azure.      Use *cloud services* to refer to the services provided via the cloud—such as servers, storage, databases, and software.      All terms are two words and lowercase. |
+| **cloud native, cloud-native** | In content for a technical audience, it’s OK to use *cloud native* to describe technologies that are built originally for the cloud and therefore optimized for cloud scale and performance.      Lowercase. Hyphenate *cloud-native* as an adjective preceding a noun, as in *cloud-native app*. Don’t hyphenate in other instances.      Don’t use *born in the cloud*, *cloud-born*, or similar phrases. |
+| **cloud OS** | Don’t use. Use *platform as a service (PaaS)* instead. |
+| **community cloud** | Never use. Use *hybrid cloud*, *private cloud*, or *hosted private cloud* instead. |
+| **content delivery network** | Lowercase when referring in general to a distributed network of servers that deliver web content. Always spell out; don’t use *CDN*. |
+| **cross-tenant** | Hyphenate in all positions. |
+| **edge, edge computing** | It’s OK to use these terms to refer to computing that shifts most data processing from a centralized system closer to a device or system that requires data quickly. Include short definitions of *the edge* and *edge computing* unless you’re sure your audience is familiar with the terms.      Lowercase.      Use *at the edge* —not *on the edge* —in references to edge computing. |
+| **elastic computing, elastic cloud computing** | In general, avoid using these terms and instead talk about what the customer can do with this technology.      If your meaning is unclear without the terms, it’s OK to use them to talk about the use of cloud computing to quickly expand or decrease computer processing, memory, and storage resources to meet changing demands. Use *elastic cloud computing* when you need to clarify that cloud services are used.      Define these terms on the first mention unless you’re sure that your audience is familiar with them. |
+| **hosted service** | Use this term to describe a service, an IT solution, or an application that's hosted by a service provider and made available to customers over the internet. |
+| **hosting provider, hoster** | It's OK to use *cloud hosting provider* and *web hosting provider* if you need to distinguish cloud service providers from web hosts. Don't use *hoster*. |
+| **hybrid cloud** | OK to use for technical audiences who are comfortable with cloud technology, but define on the first mention. For other audiences, just talk about a hybrid model. |
+| **infrastructure as a service (IaaS)** | Use for technical audiences only.      It’s OK to use *IaaS* after the term has been spelled out on the first mention with the abbreviated form in parentheses.      Don't capitalize as *IAAS.*      Don't hyphenate as a modifier. |
+| **IT as a service (ITaaS)** | Use for technical or business-decision-maker audiences only.      In content for a general audience, refer to the specific type of service, such as applying software updates, in a cloud-computing model.      It’s OK to use *ITaaS* after the term has been spelled out on the first mention with the abbreviated form in parentheses.      Don't capitalize as *ITAAS*.      Don't hyphenate as a modifier. |
+| **the Microsoft Cloud** | Use this term to describe the entire Microsoft cloud platform—not just Azure, but also the cloud on which all Microsoft cloud offerings run, including Dynamics 365, Microsoft Power Platform, and Microsoft 365.      When used in this meaning, *Microsoft Cloud* is capitalized.      Include the article (*the*) before *Microsoft Cloud*.      It’s OK to add a modifier between *the* and *Microsoft Cloud* —for example, “the trusted Microsoft Cloud.” |
+| **multicloud** | It's OK to use *multicloud* in content for technical audiences to refer to the use of multiple cloud-computing services from more than one cloud provider (including private and public clouds), in a heterogeneous environment.      One word, no hyphen. |
+| **multitenant, multitenancy** | It's OK to use these terms in content for a technical audience, but in content for a general audience, try to use friendlier language—for example, say *services used by multiple tenants* rather than *multitenant services*.      One word, no hyphen. |
+| **on-premises, off-premises** | Hyphenate in all positions.      *Premises* is plural. Don't use *on-premise*, *off-premise*.      Don't use *on-premises cloud* or *off-premises cloud.* |
+| **platform as a service (PaaS)** | Use for technical audiences only.      It’s OK to use *PaaS* after the term has been spelled out on the first mention with the abbreviated form in parentheses.      Don't capitalize as *PAAS*.      Don't hyphenate as a modifier. |
+| **private cloud, hosted private cloud** | Define these terms on the first mention. |
+| **serverless** | One word, no hyphen. |
+| **software as a service (SaaS)** | It’s OK to use *SaaS* after the term has been spelled out on the first mention with the abbreviated form in parentheses.      Don't capitalize as *SAAS*.      Don't hyphenate as a modifier. |

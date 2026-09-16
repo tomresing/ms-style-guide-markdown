@@ -1,0 +1,40 @@
+---
+title: Structural and technical considerations - Microsoft Style Guide
+description: Discusses clarify intent before acting, on structural and technical
+  considerations, until you're sure your bot can reliably interpret
+  conversational cues.
+author: ProfessorKendrick
+canonical_url: https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/structural-technical-considerations
+ms_date: 2019-02-21T00:00:00Z
+updated_at: 2026-07-06T19:24:00Z
+source_url: https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/structural-technical-considerations
+---
+
+## Structural and technical considerations
+
+## Clarify intent before acting
+
+Until you're sure your bot can reliably interpret conversational cues, it should:
+
+- Confirm the customer's intent: "You need to reset your password. Is that right?"
+- Clarify and disambiguate the customer's input when necessary: "OK, we'll reset your password. But first, I'd like to know more. Did you forget your password, or are you concerned that someone else has your password? You can say, "I forgot," or "My account is compromised."
+
+Be careful not to overdo it, though. It's better not to annoy the customer with a needless prompt unless misunderstanding the request could cause damage.
+
+## Use buttons and other UI structure to keep users on track
+
+- Prompt users with actionable statements and buttons to guide the conversation.
+- Offer suggestions when the bot is "confused" about what the user's request is.
+
+## Pace the conversation carefully
+
+- Break up messages into separate, readable blocks to make the pace of the conversation feel more natural.
+- Make sure the bot doesn't respond so quickly that it rushes the customer. Add a minimum delay if necessary.
+
+## Accommodate alternative word order and incomplete requests
+
+The bot should be able to recognize the customer's request, regardless of how it's phrased.
+
+## Conclude the conversation when the request is resolved
+
+Mimic the sense of closure typical in human-to-human interaction by wrapping up the conversation. For example: "Is there anything else I can help you with? \[No.\] OK, then. Have a great day!" Having a sense of completion helps the customer feel like there's a shared goal, reinforces the positive experience, and builds confidence in using the bot.

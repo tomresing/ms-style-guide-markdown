@@ -1,0 +1,16 @@
+{
+  "name": "ms-style-guide-markdown",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "node src/cli.js scrape",
+    "check-updates": "node src/cli.js check-updates",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "defuddle": "^0.7.0",
+    "linkedom": "^0.18.12",
+    "yaml": "^2.8.1"
+  }
+}
