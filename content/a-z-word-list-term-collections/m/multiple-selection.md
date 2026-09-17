@@ -1,20 +1,14 @@
 ---
-title: multiple selection - Microsoft Style Guide
-description: Describes guidelines to use 'multiple selection' in Microsoft
-  documents and provides multiple examples.
-author: ProfessorKendrick
+title: multiple selection
+summary: Describes guidelines to use 'multiple selection' in Microsoft documents
+  and provides multiple examples.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/m/multiple-selection
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/m/multiple-selection
 ---
 
-## Feedback
+## multiple selection
 
-Was this page helpful?
+Use to refer to a selection that includes multiple items. It's OK to use *adjacent selection* if you must emphasize that the selected items are adjacent to one another.
 
-No
-
----
-
-- Last updated on 2022-06-24
+Don't use *disjoint selection,**nonadjacent selection,* or *noncontiguous selection,*except in content for a technical audience, and only if the term appears in the UI or API. If you need to refer to nonadjacent selected items, use *multiple selection* or list the specific items.

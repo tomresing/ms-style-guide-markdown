@@ -1,12 +1,10 @@
 ---
-title: Mouse and mouse interaction terms - Microsoft Style Guide
-description: Describes how to refer the mouse and mouse interaction and provides
-  a table that outlines the usage of various mouse-related terms.
-author: ProfessorKendrick
+title: Mouse and mouse interaction terms
+summary: Describes how to refer the mouse and mouse interaction and provides a
+  table that outlines the usage of various mouse-related terms.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/mouse-mouse-interaction-terms
 ms_date: 2023-01-25T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/mouse-mouse-interaction-terms
 ---
 
 Most of the time, don't talk about the mouse, mouse actions, or the pointer unless it's necessary to avoid confusion. Instead, talk about customer interactions with the UI. To learn more, see [Describing interactions with UI](../../procedures-instructions/describing-interactions-with-ui).

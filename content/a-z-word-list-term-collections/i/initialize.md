@@ -1,19 +1,15 @@
 ---
-title: initialize - Microsoft Style Guide
-description: Describes how to use the term "initialize" in Microsoft content.
-author: ProfessorKendrick
+title: initialize
+summary: Describes how to use the term "initialize" in Microsoft content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/i/initialize
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/i/initialize
 ---
 
-## Feedback
+## initialize
 
-Was this page helpful?
+Don't use to mean *start a program or app* or *turn on a device.*
 
-No
+It's OK to use *initialize* to refer to preparing a disk or device for use or setting a variable to an initial value.
 
----
-
-- Last updated on 2022-06-24
+**See also** [start, restart](../s/start-restart), [turn on, turn off](../t/turn-on-turn-off)

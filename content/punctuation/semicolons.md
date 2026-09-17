@@ -1,21 +1,30 @@
 ---
-title: Semicolons - Microsoft Style Guide
-description: Discusses that sentences that contain semicolons are often complex.
+title: Semicolons
+summary: Discusses that sentences that contain semicolons are often complex.
   Simplify the sentence—break it into multiple sentences or a list—to eliminate
   the semicolon.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/punctuation/semicolons
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/punctuation/semicolons
 ---
 
-## Feedback
+## Semicolons
 
-Was this page helpful?
+Sentences that contain semicolons are often complex. Try to simplify the sentence—break it into multiple sentences or a list—to eliminate the semicolon.
 
-No
+Use semicolons:
 
----
-
-- Last updated on 2022-06-24
+- Between two independent clauses that aren't joined by a conjunction.  
+	**Example**  
+	Select **Options**; then select **Automatic backups**.
+- Between contrasting statements that aren't joined by a conjunction.  
+	**Example**  
+	What’s considered powerful changes over time; today’s advanced feature might be commonplace tomorrow.
+- To separate items in a series that contains commas or other punctuation. Even better, break out a complex series of items into a list.  
+	**Examples**  
+	In this tutorial, you’ll learn how to construct an interface; implement both single-document interface and multiple-document interface applications; implement features that until now were considered difficult, such as printing, toolbars, scrolling, splitter windows, print preview, and context-sensitive Help; and take advantage of many built-in components of the class library.
+	In this tutorial, you'll learn how to:
+	- Construct an interface.
+	- Implement both single-document interface and multiple-document interface applications.
+	- Implement features that until now were considered difficult, such as printing, toolbars, scrolling, splitter windows, print preview, and context-sensitive Help.
+	- Take advantage of many built-in components of the class library.

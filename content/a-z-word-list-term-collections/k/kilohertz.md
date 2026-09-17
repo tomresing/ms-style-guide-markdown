@@ -1,19 +1,11 @@
 ---
-title: kilohertz, kHz - Microsoft Style Guide
-description: Describes how to use the terms "kilohertz" and "kHz" in Microsoft content.
-author: ProfessorKendrick
+title: kilohertz, kHz
+summary: Describes how to use the terms "kilohertz" and "kHz" in Microsoft content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/k/kilohertz
 ms_date: 2024-11-21T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/k/kilohertz
 ---
 
-## Feedback
+## kilohertz, kHz
 
-Was this page helpful?
-
-No
-
----
-
-- Last updated on 2026-07-06
+**See** [Units of measure term collection](../term-collections/units-of-measure-terms)

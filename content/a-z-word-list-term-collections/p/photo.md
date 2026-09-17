@@ -1,19 +1,11 @@
 ---
-title: photo - Microsoft Style Guide
-description: Describes how to use the term "photo" in Microsoft content.
-author: ProfessorKendrick
+title: photo
+summary: Describes how to use the term "photo" in Microsoft content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/p/photo
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/p/photo
 ---
 
-## Feedback
+## photo
 
-Was this page helpful?
-
-No
-
----
-
-- Last updated on 2022-06-24
+OK to use as an abbreviation for *photograph.* Don't use as a verb. Use *photograph* or *take pictures* instead.

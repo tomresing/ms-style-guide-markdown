@@ -1,19 +1,23 @@
 ---
-title: preview - Microsoft Style Guide
-description: Describes how to use the term "preview" in Microsoft content.
-author: ProfessorKendrick
+title: preview
+summary: Describes how to use the term "preview" in Microsoft content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/p/preview
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/p/preview
 ---
 
-## Feedback
+## preview
 
-Was this page helpful?
+Prerelease versions of software and services are typically identified as *Product Name Preview* (preferred) or *Code Name Preview.*
 
-No
+In generic references, lowercase *preview.*
 
----
+Avoid using *beta* to refer to a prerelease product that's ready for unstructured testing by customers. Use *preview* instead.
 
-- Last updated on 2022-06-24
+**Examples**  
+Office 2016 Preview  
+Windows 10 Insider Preview  
+Microsoft Power BI Preview  
+A preview of Azure Container Service is available.
+
+**See also** [sample vs. preview](../s/sample-vs-preview)

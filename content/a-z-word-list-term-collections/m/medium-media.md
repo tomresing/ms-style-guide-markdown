@@ -1,20 +1,26 @@
 ---
-title: medium, media - Microsoft Style Guide
-description: Describes guidelines to use 'medium' or 'media' in Microsoft
-  documents and provides alternate examples.
-author: ProfessorKendrick
+title: medium, media
+summary: Describes guidelines to use 'medium' or 'media' in Microsoft documents
+  and provides alternate examples.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/m/medium-media
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/m/medium-media
 ---
 
-## Feedback
+## medium, media
 
-Was this page helpful?
+Use *medium,* not *media,* as a singular subject. Ensure that the verb agrees with the subject (that is, *the medium is* and *the media are*).
 
-No
+Use *media* to describe:
 
----
+- Materials or substances, such as fiber optic cable or wire, through which data is transmitted.
+- Materials on which data is recorded or stored, such as magnetic disks, CDs, or tapes.
+- The mass-communications industry and its practitioners, such as publishing and broadcasting.
+- Journalists as a group, whether they're published in print or on the web, or broadcast.
 
-- Last updated on 2022-06-24
+Don't use *media* as a shortened form of *multimedia*.
+
+**Examples**  
+The media include online broadcasts as well as newspapers, magazines, radio, and television.  
+The media covers computer industry news.  
+The medium used for many large computer programs is the DVD-ROM.

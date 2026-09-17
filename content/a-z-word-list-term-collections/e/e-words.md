@@ -1,20 +1,24 @@
 ---
-title: e-words - Microsoft Style Guide
-description: Describes guidelines to use 'e-words' in Microsoft documents and
+title: e-words
+summary: Describes guidelines to use 'e-words' in Microsoft documents and
   provides alternate examples.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/e/e-words
 ms_date: 2024-08-26T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/e/e-words
 ---
 
-## Feedback
+## e-words
 
-Was this page helpful?
+Don't create new words with *e-* (for *electronic*).
 
-No
+It's OK to use e-words, such as *e-book* and *e-commerce,* that are included in this guide and in *[Merriam-Webster Dictionary](https://merriam-webster.com/).*
 
----
+Almost all e-words are hyphenated. *Email* is an exception.
 
-- Last updated on 2024-08-26
+Lowercase the *e* in body text, and capitalize the *E* at the beginning of a sentence or a heading. The letter following the hyphen is capitalized only when title-style capitalization is required, which is rare in Microsoft content.
+
+**Examples**  
+(Sentence-style capitalization) E-commerce and security  
+(Title-style capitalization) Strategic E-Commerce Systems and Tools for Competing in the Digital Marketplace
+
+**See also** [Capitalization](../../capitalization)

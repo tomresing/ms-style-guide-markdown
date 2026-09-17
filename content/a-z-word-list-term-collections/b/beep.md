@@ -1,20 +1,15 @@
 ---
-title: Beep - Microsoft Style Guide
-description: This article outlines use of the word beep per Microsoft style
+title: Beep
+summary: This article outlines use of the word beep per Microsoft style
   guidelines, with an example.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/b/beep
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/b/beep
 ---
 
-## Feedback
+## Beep
 
-Was this page helpful?
+Use instead of *alarm* or *tone* to refer to a beeping sound.
 
-No
-
----
-
-- Last updated on 2022-06-24
+**Example**  
+Recording begins when you hear the beep.

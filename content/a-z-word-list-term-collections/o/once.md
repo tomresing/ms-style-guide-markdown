@@ -1,20 +1,15 @@
 ---
-title: once - Microsoft Style Guide
-description: Describes guidelines to use 'once' in Microsoft documents and
-  provides examples.
-author: ProfessorKendrick
+title: once
+summary: Describes guidelines to use 'once' in Microsoft documents and provides
+  examples.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/o/once
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/o/once
 ---
 
-## Feedback
+## once
 
-Was this page helpful?
+Don't use as a synonym for *after*.
 
-No
-
----
-
-- Last updated on 2022-06-24
+**Example**  
+After you save the document, you can close the app.

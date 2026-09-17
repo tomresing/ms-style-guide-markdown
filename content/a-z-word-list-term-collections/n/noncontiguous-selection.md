@@ -1,20 +1,17 @@
 ---
-title: noncontiguous selection - Microsoft Style Guide
-description: Describes guidelines to use 'noncontiguous selection' in Microsoft
+title: noncontiguous selection
+summary: Describes guidelines to use 'noncontiguous selection' in Microsoft
   documents and provides examples.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/n/noncontiguous-selection
 ms_date: 2019-09-03T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/n/noncontiguous-selection
 ---
 
-## Feedback
+## noncontiguous selection
 
-Was this page helpful?
+Don't use in content for a general audience to refer to selecting multiple items that don't touch. Use *multiple selection* instead, or describe the specific noncontiguous items.
 
-No
+Use in content for a technical audience only if the term appears in the UI or API.
 
----
-
-- Last updated on 2022-06-24
+**Example**  
+To select multiple cells, select **Ctrl** as you select the cells.

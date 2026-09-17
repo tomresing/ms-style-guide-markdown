@@ -1,20 +1,16 @@
 ---
-title: Add-In, Add-On - Microsoft Style Guide
-description: This article outlines the use of the terms add-in and add-on per
+title: Add-In, Add-On
+summary: This article outlines the use of the terms add-in and add-on per
   Microsoft style guidelines.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/a/add-in-add-on
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/a/add-in-add-on
 ---
 
-## Feedback
+## Add-In, Add-On
 
-Was this page helpful?
+Use *add-in* to refer to software that adds functionality to a larger program, such as the Skype Meeting Add-in for Microsoft Outlook. *Add-in* can also refer to a driver or to a customer-written program that adds functionality to a larger program, such as a wizard.
 
-No
+Use *add-on* to refer to a hardware device, such as an external drive, that's attached to the device.
 
----
-
-- Last updated on 2022-06-24
+In content for a general audience, use *add-in* and *add-on* primarily as modifiers. For example, *add-in program* or *add-on drive*.

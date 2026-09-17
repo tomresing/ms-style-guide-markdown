@@ -1,20 +1,14 @@
 ---
-title: micro- - Microsoft Style Guide
-description: Describes guidelines to use 'micro-' in Microsoft documents and
+title: micro-
+summary: Describes guidelines to use 'micro-' in Microsoft documents and
   provides alternate examples.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/m/micro
 ms_date: 2024-08-26T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/m/micro
 ---
 
-## Feedback
+## micro-
 
-Was this page helpful?
+In general, don't hyphenate words beginning with *micro-,* such as *microprocessor* and *microsecond,* unless it's necessary to avoid confusion. When in doubt, check *[Merriam-Webster Dictionary](https://merriam-webster.com/).*
 
-No
-
----
-
-- Last updated on 2024-08-26
+To learn more about hyphenation, see [Hyphens](../../punctuation/dashes-hyphens/hyphens).

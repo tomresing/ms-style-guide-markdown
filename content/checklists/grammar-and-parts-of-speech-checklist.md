@@ -1,14 +1,12 @@
 ---
 title: Grammar and parts of speech checklist
-description: Enhance your writing with this comprehensive grammar and parts of
+summary: Enhance your writing with this comprehensive grammar and parts of
   speech checklist tailored for Microsoft content. Learn to apply essential
   grammar rules, use active voice, and maintain clarity with simple,
   straightforward language.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/checklists/grammar-and-parts-of-speech-checklist
 ms_date: 2024-08-21T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/checklists/grammar-and-parts-of-speech-checklist
 ---
 
 As creative as it is, the art of writing is governed by a set of rules with a lot of built-in flexibility. This checklist covers rules of grammar that are important in Microsoft content and how to apply them. You'll notice a preference for style and word choices that are simple, straightforward, and human. That's what makes us sound like Microsoft—and helps you connect with customers.

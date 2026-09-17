@@ -1,21 +1,18 @@
 ---
-title: whitelist - Microsoft Style Guide
-description: Describes process of using the term allowlist in place of the
-  whitelist in content and provides examples of using the term allowlist in
-  content.
-author: ProfessorKendrick
+title: whitelist
+summary: Describes process of using the term allowlist in place of the whitelist
+  in content and provides examples of using the term allowlist in content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/w/whitelist
 ms_date: 2021-01-15T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/w/whitelist
 ---
 
-## Feedback
+## whitelist
 
-Was this page helpful?
+Never use *whitelist*. Use *allow list* instead.
 
-No
+For more specific usage, *safe senders list* can be used.
 
----
-
-- Last updated on 2026-01-15
+**Examples**  
+You can use *safe senders lists* to help with false positives.  
+The *allow list* is a list of digits that will not be blocked by the app.

@@ -1,20 +1,26 @@
 ---
-title: email - Microsoft Style Guide
-description: Describes guidelines to use 'email' in Microsoft documents and
-  provides alternate examples.
-author: ProfessorKendrick
+title: email
+summary: Describes guidelines to use 'email' in Microsoft documents and provides
+  alternate examples.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/e/email
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/e/email
 ---
 
-## Feedback
+## email
 
-Was this page helpful?
+Use to refer generically to an electronic mail program, to refer collectively to email messages, or to refer to individual email messages. If necessary to distinguish these meanings, use *email message* or *message* to refer to an individual piece of email. Make sure it's clear that you're not referring to instant messaging. After you have established the context of electronic mail, it's OK to use *mail* instead of *email*.
 
-No
+It's OK to use *email* as a verb.
 
----
+**Global tip** In some languages, the translation of *email* is different for noun and verb forms. If you use *email* as a noun, provide enough context that localizers can identify its role in the sentence. For example, write *send an email,* which positions *email* after a verb and an article, where a noun is expected. In contrast, *Email* used by itself as a heading could be a noun or a verb.
 
-- Last updated on 2022-06-24
+Use *Email* at the beginning of a sentence or heading. Never hyphenate *email* or capitalize the *m.*
+
+**Examples**  
+You have two new emails.  
+Scroll through email to find the message you want to read.  
+You have new mail.  
+Email us your comments.
+
+**See also** [message](../m/message)

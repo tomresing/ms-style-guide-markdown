@@ -1,20 +1,27 @@
 ---
-title: shut down, shutdown - Microsoft Style Guide
-description: Describes guidelines to use 'shut down' or 'shutdown' in Microsoft
+title: shut down, shutdown
+summary: Describes guidelines to use 'shut down' or 'shutdown' in Microsoft
   documents, and provides examples.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/shut-down-shutdown
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/shut-down-shutdown
 ---
 
-## Feedback
+## shut down, shutdown
 
-Was this page helpful?
+Two words as a verb, one word as a noun.
 
-No
+Use *shut down* to describe exiting the operating system and turning off the device in a single action.
 
----
+Don't use *shut down* to describe turning off a device or as a synonym for *close*.
 
-- Last updated on 2022-06-24
+**Examples**  
+To turn off your computer, select **Settings**, and then select **Shut down**.  
+Use the **Shut down** command to safely close open apps, shut down Windows, and turn off the device.  
+Many computers turn the power off automatically.  
+The accidental shutdown might have damaged some files.
+
+**See also**  
+[Describing interactions with UI](../../procedures-instructions/describing-interactions-with-ui)  
+[turn on, turn off](../t/turn-on-turn-off)  
+[sleep](sleep)

@@ -1,20 +1,18 @@
 ---
-title: Examples and scenarios - Microsoft Style Guide
-description: Discusses fictitious examples and scenarios that include the names
-  of people, places, or organizations that are potentially sensitive.
-author: ProfessorKendrick
+title: Examples and scenarios
+summary: Discusses fictitious examples and scenarios that include the names of
+  people, places, or organizations that are potentially sensitive.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/global-communications/examples-scenarios
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/global-communications/examples-scenarios
 ---
 
-## Feedback
+## Examples and scenarios
 
-Was this page helpful?
+Fictitious examples that include the names of people, places, or organizations are potentially sensitive. Use-case scenarios—detailed descriptions of specific customer interactions with a product, service, or technology—present similar problems. To globalize examples and use-case scenarios, use these guidelines.
 
-No
+**Be sensitive to how use-case scenarios may be perceived** in other cultures. Social situations, politics, religion, events, holidays, sports, traditions, and legal and business practices vary worldwide. For example, greeting cards are uncommon in many parts of the world, and in some cultures men and women don’t touch in public, even to shake hands.
 
----
+**Avoid mentioning real places altogether,** or use the names of recognizable cities from different parts of the world. Vary the locales from one example to the next.
 
-- Last updated on 2022-06-24
+**Avoid discussing technologies and standards** that aren't used worldwide. Standards vary, from phone, mobile, wireless, and video to measurement, paper size, character sets, and text direction. And don’t assume US standards are familiar or relevant to everyone.

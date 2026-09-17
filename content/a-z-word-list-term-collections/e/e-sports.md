@@ -1,20 +1,16 @@
 ---
-title: e-sports - Microsoft Style Guide
-description: Describes guidelines to use 'e-sports' in Microsoft documents and
+title: e-sports
+summary: Describes guidelines to use 'e-sports' in Microsoft documents and
   provides alternate examples.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/e/e-sports
 ms_date: 2018-09-10T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/e/e-sports
 ---
 
-## Feedback
+## e-sports
 
-Was this page helpful?
+Always hyphenate. Don't use *esports* or *eSports.*
 
-No
+Use *E-sports* at the beginning of a sentence or heading. In uncommon situations where title-style capitalization is required, use *E-Sports.*
 
----
-
-- Last updated on 2022-06-24
+**See also** [Capitalization](../../capitalization)

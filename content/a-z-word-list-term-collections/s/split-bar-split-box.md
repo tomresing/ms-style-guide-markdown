@@ -1,20 +1,14 @@
 ---
-title: split bar, split box - Microsoft Style Guide
-description: Describes that the split bar and split box user interface element
-  can be referred to as a split bar and split box in content.
-author: ProfessorKendrick
+title: split bar, split box
+summary: Describes that the split bar and split box user interface element can
+  be referred to as a split bar and split box in content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/split-bar-split-box
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/split-bar-split-box
 ---
 
-## Feedback
+## split bar, split box
 
-Was this page helpful?
+![Screenshot of the split bar and split box icon as it appears when hovering over a bar or box that can be split.](media/split-bar-split-box/1404636417.png)
 
-No
-
----
-
-- Last updated on 2022-06-24
+It's OK to use *split bar* and *split box* in content for all audiences.

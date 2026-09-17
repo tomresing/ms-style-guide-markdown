@@ -1,19 +1,11 @@
 ---
-title: endpoint - Microsoft Style Guide
-description: Describes guidelines to use 'endpoint' in Microsoft documents.
-author: ProfessorKendrick
+title: endpoint
+summary: Describes guidelines to use 'endpoint' in Microsoft documents.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/e/endpoint
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/e/endpoint
 ---
 
-## Feedback
+## endpoint
 
-Was this page helpful?
-
-No
-
----
-
-- Last updated on 2026-07-06
+One word.

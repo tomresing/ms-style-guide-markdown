@@ -1,20 +1,20 @@
 ---
-title: button - Microsoft Style Guide
-description: This article outlines use of the word button per Microsoft style
+title: button
+summary: This article outlines use of the word button per Microsoft style
   guidelines, with examples.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/b/button
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/b/button
 ---
 
-## Feedback
+## button
 
-Was this page helpful?
+Most of the time, avoid talking about UI elements.
 
-No
+When you need to discuss UI elements, use *button* instead of *command button,**option button,* or *action button*. If possible, refer to a button by its label only without using the word *button*. If you need to use the word *button* for clarity, *button* is lowercase. For example, references to an unnamed button such as **Maximize** may be clearer if you describe it as *the* ***Maximize*** *button*.
 
----
+**Examples**  
+Select a file, and then select **OK**.  
+To enlarge a window to fill the entire screen, select the **Maximize** button.
 
-- Last updated on 2022-06-24
+**See also** [Describing interactions with UI](../../procedures-instructions/describing-interactions-with-ui), [Formatting text in instructions](../../procedures-instructions/formatting-text-in-instructions)

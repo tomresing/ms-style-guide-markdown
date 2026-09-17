@@ -1,20 +1,14 @@
 ---
-title: dial-up - Microsoft Style Guide
-description: Describes guidelines to use 'dial-up' in Microsoft documents. Only
-  use dial-up as an adjective, and always hyphenate.
-author: ProfessorKendrick
+title: dial-up
+summary: Describes guidelines to use 'dial-up' in Microsoft documents. Only use
+  dial-up as an adjective, and always hyphenate.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/d/dial-up
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/d/dial-up
 ---
 
-## Feedback
+## dial-up
 
-Was this page helpful?
+Use only as an adjective (as in *dial-up connection*), not as a noun or verb. Always hyphenate.
 
-No
-
----
-
-- Last updated on 2022-06-24
+Use *dial* as the verb to refer to placing a call or using a dial-up device.

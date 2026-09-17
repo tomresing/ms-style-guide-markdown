@@ -1,20 +1,14 @@
 ---
-title: co- - Microsoft Style Guide
-description: Describes how to use the prefix 'co-' with words in Microsoft
-  content and clarifies when to hyphenate the prefix.
-author: ProfessorKendrick
+title: co-
+summary: Describes how to use the prefix 'co-' with words in Microsoft content
+  and clarifies when to hyphenate the prefix.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/c/co
 ms_date: 2024-08-26T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/c/co
 ---
 
-## Feedback
+## co-
 
-Was this page helpful?
+In general, don’t hyphenate words beginning with *co-,* such as *coauthor* and *coordinate,* unless it’s necessary to avoid confusion. When in doubt, check *[Merriam-Webster Dictionary](https://merriam-webster.com/).*
 
-No
-
----
-
-- Last updated on 2024-08-26
+To learn more about hyphenation, see [Hyphens](../../punctuation/dashes-hyphens/hyphens).

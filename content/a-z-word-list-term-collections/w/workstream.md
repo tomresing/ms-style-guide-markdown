@@ -1,20 +1,19 @@
 ---
-title: workstream - Microsoft Style Guide
-description: Instructs to use the term "workstream" as one word without a hyphen
+title: workstream
+summary: Instructs to use the term "workstream" as one word without a hyphen
   with an example.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/w/workstream
 ms_date: 2021-05-31T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/w/workstream
 ---
 
-## Feedback
+## workstream
 
-Was this page helpful?
+Use as one word without a hyphen.
 
-No
+**Examples**  
+*Workstreams* are channels within a team that aid the team in organizing their work.
 
----
+Each channel represents a different topic or *workstream* within the overall team.
 
-- Last updated on 2022-06-24
+Creating channels is a great way to organize conversations and files by *workstream* or subject.

@@ -1,13 +1,11 @@
 ---
 title: Acronyms checklist
-description: Discover best practices for using acronyms and abbreviations in
-  your content. Learn when to spell out terms, how to introduce acronyms, and
-  tips for clarity and SEO.
-author: ProfessorKendrick
+summary: Discover best practices for using acronyms and abbreviations in your
+  content. Learn when to spell out terms, how to introduce acronyms, and tips
+  for clarity and SEO.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/checklists/acronyms-checklist
 ms_date: 2024-08-21T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/checklists/acronyms-checklist
 ---
 
 Although some acronyms are widely understood and preferred to the spelled-out term, others aren’t well known or are familiar only to a specific group of customers. These tips will help you use acronyms and abbreviations in a way that’s clear and meaningful.

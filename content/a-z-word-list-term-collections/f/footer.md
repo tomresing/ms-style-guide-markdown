@@ -1,20 +1,14 @@
 ---
-title: footer - Microsoft Style Guide
-description: Describes guidelines to use 'footer' in Microsoft documents, and
+title: footer
+summary: Describes guidelines to use 'footer' in Microsoft documents, and
   provides alternate examples.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/f/footer
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/f/footer
 ---
 
-## Feedback
+## footer
 
-Was this page helpful?
+In content related to word-processing and publishing apps, use instead of *bottom running head* or *running foot* when discussing page layout. It's OK to use *running foot* as a synonym in keyword lists.
 
-No
-
----
-
-- Last updated on 2022-06-24
+**See also** [header](../h/header)

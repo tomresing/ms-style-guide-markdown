@@ -1,20 +1,20 @@
 ---
-title: Allow, Allows - Microsoft Style Guide
-description: This article outlines use of the word allow/allows per Microsoft
-  style guidelines, with examples.
-author: ProfessorKendrick
+title: Allow, Allows
+summary: This article outlines use of the word allow/allows per Microsoft style
+  guidelines, with examples.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/a/allow-allows
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/a/allow-allows
 ---
 
-## Feedback
+## allow, allows
 
-Was this page helpful?
+Don't use *allows* (or *enables* or *lets*) to describe things that Microsoft or Microsoft apps make possible for the customer.
 
-No
+It's OK to use *allows* to refer to features, such as security, that permit or deny some action or access.
 
----
+In content for technical audiences, write around the use of *allow/allows* by referring to customers in the third person, such as *the customer can*.
 
-- Last updated on 2022-06-24
+**Examples**  
+Windows allows a user without an account to sign in as a guest.  
+Microsoft Word supports saving files in HTML format.

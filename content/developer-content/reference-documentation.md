@@ -1,13 +1,11 @@
 ---
-title: Reference documentation - Microsoft Style Guide
-description: Discusses reference documentation as providing details about the
+title: Reference documentation
+summary: Discusses reference documentation as providing details about the
   programming elements associated with technologies and languages, including
   class libraries.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/developer-content/reference-documentation
 ms_date: 2019-08-07T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/developer-content/reference-documentation
 ---
 
 ## Reference documentation

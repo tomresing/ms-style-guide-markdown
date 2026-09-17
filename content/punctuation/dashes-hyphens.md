@@ -1,12 +1,10 @@
 ---
-title: Em dashes, en dashes, hyphens, and minus signs - Microsoft Style Guide
-description: Describes how to use em dashes, en dashes, hyphens, and minus signs
-  the right way, in the right places.
-author: ProfessorKendrick
+title: Em dashes, en dashes, hyphens, and minus signs
+summary: Describes how to use em dashes, en dashes, hyphens, and minus signs the
+  right way, in the right places.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/punctuation/dashes-hyphens/
 ms_date: 2025-04-11T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/punctuation/dashes-hyphens/
 ---
 
 ## Em dashes, en dashes, hyphens, and minus signs

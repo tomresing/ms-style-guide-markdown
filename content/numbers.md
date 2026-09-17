@@ -1,13 +1,11 @@
 ---
-title: Numbers - Microsoft Style Guide
-description: Discusses being consistent in your use of numbers. When you write
-  about numbers used in examples or UI, duplicate them exactly as they appear in
-  the UI.
-author: ProfessorKendrick
+title: Numbers
+summary: Discusses being consistent in your use of numbers. When you write about
+  numbers used in examples or UI, duplicate them exactly as they appear in the
+  UI.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/numbers
 ms_date: 2022-05-13T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/numbers
 ---
 
 ## Numbers

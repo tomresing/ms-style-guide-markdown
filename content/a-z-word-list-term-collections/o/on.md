@@ -1,20 +1,24 @@
 ---
-title: on - Microsoft Style Guide
-description: Describes guidelines to use 'on' in Microsoft documents and
-  provides examples. See 'Describing interactions with UI' for more information.
-author: ProfessorKendrick
+title: on
+summary: Describes guidelines to use 'on' in Microsoft documents and provides
+  examples. See 'Describing interactions with UI' for more information.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/o/on
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/o/on
 ---
 
-## Feedback
+## on
 
-Was this page helpful?
+Use *on* as a preposition with:
 
-No
+- Menus
+- Tabs
+- Taskbar, toolbar, ruler, and desktop
+- Disks, in the sense of a program being on a disk
+- Networks
+- Hardware platforms
+- The web
 
----
+In COM programming, an interface is implemented *on* an object.
 
-- Last updated on 2022-06-24
+**See also** [Describing interactions with UI](../../procedures-instructions/describing-interactions-with-ui)

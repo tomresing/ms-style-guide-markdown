@@ -1,13 +1,11 @@
 ---
-title: Bias-free communication - Microsoft Style Guide
-description: Describes Microsoft's prioritization of inclusive language and
+title: Bias-free communication
+summary: Describes Microsoft's prioritization of inclusive language and
   communication being used in content and provides terms to use and avoid in all
   content.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/bias-free-communication
 ms_date: 2024-04-18T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/bias-free-communication
 ---
 
 ## Bias-free communication

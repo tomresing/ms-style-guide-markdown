@@ -1,12 +1,10 @@
 ---
-title: Prepositions - Microsoft Style Guide
-description: Describes prepositional phrases, where to put prepositions in a
+title: Prepositions
+summary: Describes prepositional phrases, where to put prepositions in a
   sentence, and which prepositions to use with UI elements.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/grammar/prepositions
 ms_date: 2026-03-18T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/grammar/prepositions
 ---
 
 ## Prepositions

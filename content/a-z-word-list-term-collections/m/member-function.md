@@ -1,19 +1,11 @@
 ---
-title: member function - Microsoft Style Guide
-description: Describes guidelines to use 'member function' in Microsoft documents.
-author: ProfessorKendrick
+title: member function
+summary: Describes guidelines to use 'member function' in Microsoft documents.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/m/member-function
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/m/member-function
 ---
 
-## Feedback
+## member function
 
-Was this page helpful?
-
-No
-
----
-
-- Last updated on 2026-07-06
+Don't use if you can correctly use *method* instead.

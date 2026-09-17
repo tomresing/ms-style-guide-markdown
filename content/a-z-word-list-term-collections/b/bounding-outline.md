@@ -1,20 +1,14 @@
 ---
-title: bounding outline - Microsoft Style Guide
-description: This article outlines use of the term bounding outline per
-  Microsoft style guidelines.
-author: ProfessorKendrick
+title: bounding outline
+summary: This article outlines use of the term bounding outline per Microsoft
+  style guidelines.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/b/bounding-outline
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/b/bounding-outline
 ---
 
-## Feedback
+## bounding outline
 
-Was this page helpful?
+Use to describe the visible element, usually a dotted rectangle, that surrounds a set of selected elements. If necessary, use *dotted rectangle* or *dotted box* to describe the bounding outline in content for a general audience, and then use *bounding outline* in subsequent references.
 
-No
-
----
-
-- Last updated on 2022-06-24
+Don't use *marquee* as a synonym.

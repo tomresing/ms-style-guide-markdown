@@ -1,20 +1,20 @@
 ---
-title: SQL, SQL Server - Microsoft Style Guide
-description: Describes guidelines to use 'SQL' or 'SQL Server' in Microsoft
+title: SQL, SQL Server
+summary: Describes guidelines to use 'SQL' or 'SQL Server' in Microsoft
   documents, and provides usage examples.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/sql-sql-server
 ms_date: 2021-12-09T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/sql-sql-server
 ---
 
-## Feedback
+## SQL, SQL Server
 
-Was this page helpful?
+When you're referring to a computer that's running Microsoft SQL Server, use *a computer running SQL Server* or *a computer that's running SQL Server*. (Note the capital *S* in *Server*.)
 
-No
+When you're referring to Structured Query Language as *SQL,* treat *SQL* as an acronym pronounced “sequel” and use the indefinite article *a:**a* *SQL database.*
 
----
+**Examples**
 
-- Last updated on 2022-06-24
+Connect Power BI to an external data source, such as a SQL database.
+
+Review installation requirements, system configuration checks, and security considerations for a SQL Server installation.

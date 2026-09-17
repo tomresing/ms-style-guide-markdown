@@ -1,12 +1,10 @@
 ---
-title: URLs and web addresses - Microsoft Style Guide
-description: Discusses that communications to customers often refer to websites
-  and URLs. In content for a general audience, use address rather than URL.
-author: ProfessorKendrick
+title: URLs and web addresses
+summary: Discusses that communications to customers often refer to websites and
+  URLs. In content for a general audience, use address rather than URL.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/urls-web-addresses
 ms_date: 2026-04-06T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/urls-web-addresses
 ---
 
 ## URLs and web addresses

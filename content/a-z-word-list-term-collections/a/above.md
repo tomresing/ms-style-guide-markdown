@@ -1,20 +1,21 @@
 ---
-title: Above - Microsoft Style Guide
-description: This article outlines the use of the word above per Microsoft style
+title: Above
+summary: This article outlines the use of the word above per Microsoft style
   guidelines, with examples.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/a/above
 ms_date: 2019-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/a/above
 ---
 
-## Feedback
+## Above
 
-Was this page helpful?
+Don't use to mean *earlier*.
 
-No
+Don't use as an adjective preceding a noun (*the above section*) or following a noun (*the code above*). Use a link, or use *previous, preceding,* or *earlier.*
 
----
+**Examples**  
+Use the preceding code to display information about the database.  
+See [Installation instructions](https://example.com/).  
+See Installation instructions, earlier in this article.
 
-- Last updated on 2022-06-24
+**See also** [below](/en-us/style-guide/a-z-word-list-term-collections/b/below), [earlier](/en-us/style-guide/a-z-word-list-term-collections/e/earlier)

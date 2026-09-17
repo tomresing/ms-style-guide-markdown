@@ -1,13 +1,10 @@
 ---
-title: Bit and byte terms - Microsoft Style Guide
-description: Describes how to use the bit and byte terms and provides examples
-  and abbreviations for various instances of referring to bits and bytes in
-  content.
-author: ProfessorKendrick
+title: Bit and byte terms
+summary: Describes how to use the bit and byte terms and provides examples and
+  abbreviations for various instances of referring to bits and bytes in content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/bits-bytes-terms
 ms_date: 2026-03-06T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/bits-bytes-terms
 ---
 
 ## Bit and byte terms

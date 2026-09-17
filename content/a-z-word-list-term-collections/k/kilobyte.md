@@ -1,20 +1,14 @@
 ---
-title: kilobyte, KB, K, K byte, Kbyte - Microsoft Style Guide
-description: Describes how to use the terms "kilobyte", "KB", "K", "K byte", and
+title: kilobyte, KB, K, K byte, Kbyte
+summary: Describes how to use the terms "kilobyte", "KB", "K", "K byte", and
   "Kbyte" in Microsoft content.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/k/kilobyte
 ms_date: 2019-09-18T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/k/kilobyte
 ---
 
-## Feedback
+## kilobyte, KB, K, K byte, Kbyte
 
-Was this page helpful?
+**See** [Bits and bytes term collection](../term-collections/bits-bytes-terms)
 
-No
-
----
-
-- Last updated on 2022-06-24
+For information about using *K* as an abbreviation for *thousand,* see [Numbers](../../numbers).

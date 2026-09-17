@@ -1,20 +1,22 @@
 ---
-title: set, specify - Microsoft Style Guide
-description: Describes guidelines to use 'set' or 'specify' in Microsoft
-  documents, and provides examples with a link to common UI interactions.
-author: ProfessorKendrick
+title: set, specify
+summary: Describes guidelines to use 'set' or 'specify' in Microsoft documents,
+  and provides examples with a link to common UI interactions.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/set-specify
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/set-specify
 ---
 
-## Feedback
+## set, specify
 
-Was this page helpful?
+Avoid generic terms such as *set* and *specify* to describe customer actions. Try to use more specific verbs.
 
-No
+**Examples**  
+Select a color for an appointment or a meeting.  
+Enter a location for **Tab stop position**.
 
----
+Don't use *set* to indicate entering or selecting a value in a dialog box or other UI element.
 
-- Last updated on 2022-06-24
+It's OK to use *set* in content for developers to describe entering or selecting the value of a property.
+
+**See also** [Describing interactions with UI](../../procedures-instructions/describing-interactions-with-ui)

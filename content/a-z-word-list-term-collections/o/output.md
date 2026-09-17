@@ -1,20 +1,18 @@
 ---
-title: output - Microsoft Style Guide
-description: Describes guidelines to use 'output' in Microsoft documents and
+title: output
+summary: Describes guidelines to use 'output' in Microsoft documents and
   provides usage examples.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/o/output
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/o/output
 ---
 
-## Feedback
+## output
 
-Was this page helpful?
+Don't use as a verb. Instead, use a verb that describes the kind of output, such as *write to,**display on,* or *print to*.
 
-No
+Avoid using as a noun or an adjective in content for a general audience. Use a more specific term instead.
 
----
-
-- Last updated on 2022-06-24
+**Examples**  
+Print a document to a file or to a specific printer.  
+The **HttpResponse.Output** property delivers text output to the outgoing HTTP response stream.

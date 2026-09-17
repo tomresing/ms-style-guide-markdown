@@ -1,12 +1,10 @@
 ---
-title: Web, software, and HTML considerations - Microsoft Style Guide
-description: Discusses web, software, and HTML considerations regarding web
-  content that attracts a worldwide audience.
-author: ProfessorKendrick
+title: Web, software, and HTML considerations
+summary: Discusses web, software, and HTML considerations regarding web content
+  that attracts a worldwide audience.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/global-communications/web-software-html-considerations
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/global-communications/web-software-html-considerations
 ---
 
 ## Web, software, and HTML considerations

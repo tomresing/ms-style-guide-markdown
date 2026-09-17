@@ -1,11 +1,9 @@
 ---
 title: Alternative text (alt text)
-description: This article outlines Microsoft accessibility style guidelines for alt text.
-author: ProfessorKendrick
+summary: This article outlines Microsoft accessibility style guidelines for alt text.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/accessibility/alternative-text
 ms_date: 2026-04-03T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/accessibility/alternative-text
 ---
 
 Alternative text (abbreviated as *alt text*) is a textual replacement for images, including graphics, photographs, charts, and screenshots. Alt text an essential part of accessibility because it benefits users who can't view or process images. The purpose is to provide an equivalent user experience by communicating the same basic information that other users gain from looking at the image.

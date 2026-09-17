@@ -1,13 +1,11 @@
 ---
-title: Accessibility terms - Microsoft Style Guide
-description: Describes accessibility terms and provides examples of inclusive
+title: Accessibility terms
+summary: Describes accessibility terms and provides examples of inclusive
   language to include in content and examples of sensitive language to exclude
   from content.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms
 ms_date: 2025-06-27T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms
 ---
 
 ## Accessibility terms

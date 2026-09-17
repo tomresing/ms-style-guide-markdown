@@ -1,12 +1,10 @@
 ---
-title: Nouns and pronouns - Microsoft Style Guide
-description: Discusses proper nouns, which are one of a kind—unique people,
-  places, and things. Capitalize proper nouns wherever they occur.
-author: ProfessorKendrick
+title: Nouns and pronouns
+summary: Discusses proper nouns, which are one of a kind—unique people, places,
+  and things. Capitalize proper nouns wherever they occur.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/grammar/nouns-pronouns
 ms_date: 2024-08-26T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/grammar/nouns-pronouns
 ---
 
 ## Nouns and pronouns

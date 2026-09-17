@@ -1,19 +1,16 @@
 ---
-title: Help - Microsoft Style Guide
-description: Describes how to use the term "help" in Microsoft content.
-author: ProfessorKendrick
+title: Help
+summary: Describes how to use the term "help" in Microsoft content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/h/help
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/h/help
 ---
 
-## Feedback
+## Help
 
-Was this page helpful?
+Most of the time, use just *Help.* Don't use *online Help* unless you need to describe the Help system. Capitalize when referring to a Help system within a product.
 
-No
+It's OK to use *definition Help, context-sensitive Help,* and *online Help files* to describe the Help system itself or to explain how to develop a Help system.
 
----
-
-- Last updated on 2022-06-24
+**Example**  
+Word Help

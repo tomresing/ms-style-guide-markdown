@@ -1,19 +1,13 @@
 ---
-title: nonadjacent selection - Microsoft Style Guide
-description: Describes guidelines to use 'nonadjacent selection' in Microsoft documents.
-author: ProfessorKendrick
+title: nonadjacent selection
+summary: Describes guidelines to use 'nonadjacent selection' in Microsoft documents.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/n/nonadjacent-selection
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/n/nonadjacent-selection
 ---
 
-## Feedback
+## nonadjacent selection
 
-Was this page helpful?
+Don't use in content for a general audience to describe multiple selected items that don't touch. Use *multiple selection* or list the specific items instead.
 
-No
-
----
-
-- Last updated on 2022-06-24
+Use in content for a technical audience only if the term appears in the UI or API.

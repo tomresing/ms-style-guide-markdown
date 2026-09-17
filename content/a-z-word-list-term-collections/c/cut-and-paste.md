@@ -1,20 +1,28 @@
 ---
-title: cut, cut-and-paste - Microsoft Style Guide
-description: Describes how to use the terms 'cut' and 'cut-and-paste' in
-  Microsoft content depending on context and provides examples of their usage.
-author: ProfessorKendrick
+title: cut, cut-and-paste
+summary: Describes how to use the terms 'cut' and 'cut-and-paste' in Microsoft
+  content depending on context and provides examples of their usage.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/c/cut-and-paste
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/c/cut-and-paste
 ---
 
-## Feedback
+## cut, cut-and-paste
 
-Was this page helpful?
+Don't use *cut:*
 
-No
+- As a verb, even to refer to an action involving the **Cut** command. Use *delete* instead.
+- As a verb to describe temporarily moving text to the clipboard. Use *move* or *copy* instead.
+- As an imperative verb in procedures involving the **Cut** or the **Delete** command. Use *delete* instead.
+- As a noun to refer to the action of the **Delete** command. Use *deletion* instead.
 
----
+It's OK to use *cut-and-paste* as an adjective.
 
-- Last updated on 2022-06-24
+Don't use *cut-and-paste* or *cut-and-replace* as a noun or verb. Use *delete* instead. It's OK to use *paste* by itself.
+
+**Examples**  
+Select **Cut** to delete the selected text.  
+Select the text you want to delete, and then select **Cut**.  
+Select **Cut** to move the selected text to the clipboard.  
+Delete the text and paste it somewhere else.  
+Cut-and-paste capabilities are available across most Windows devices.

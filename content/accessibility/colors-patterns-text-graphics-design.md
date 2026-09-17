@@ -1,20 +1,22 @@
 ---
-title: Colors and Patterns in Text, Graphics, and Design - Microsoft Style Guide
-description: This article provides Microsoft accessibility style guidelines on
+title: Colors and Patterns in Text, Graphics, and Design
+summary: This article provides Microsoft accessibility style guidelines on
   colors and patterns in text, graphics, and design.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/accessibility/colors-patterns-text-graphics-design
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/accessibility/colors-patterns-text-graphics-design
 ---
 
-## Feedback
+## Colors and patterns in text, graphics, and design
 
-Was this page helpful?
+Choose colors and patterns carefully. High contrast may improve readability for people who have low vision. For people with some types of color blindness, certain color combinations are difficult to distinguish.
 
-No
+**Don’t convey information with color alone.**For example, use both color and underlined text for links, and use pattern and color to differentiate information in charts and graphs. Remember that high-contrast personalization themes in Windows alter text color.
 
----
+**Don’t hard-code colors.**They can become illegible in high-contrast themes.
 
-- Last updated on 2022-06-24
+**Choose color combinations with a minimum contrast ratio of 4.5:1.**Don’t use low-contrast or hard-to-read color combinations, such as light green and white or red and green.
+
+**Don’t use screens or tints in art.**
+
+**Don’t use screened or shaded backgrounds, watermarks, or other images behind text.**Reduced contrast makes text harder to read and hinders screen readers.

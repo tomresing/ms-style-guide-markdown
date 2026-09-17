@@ -1,20 +1,18 @@
 ---
-title: z-axis - Microsoft Style Guide
-description: Discusses that in 3D charts, the z-axis shows depth and generally
+title: z-axis
+summary: Discusses that in 3D charts, the z-axis shows depth and generally
   represents values, but instructs to lowercase and hyphenate the z-axis.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/z/z-axis
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/z/z-axis
 ---
 
-## Feedback
+## z-axis
 
-Was this page helpful?
+Lowercase. Hyphenate.
 
-No
+In 3D charts, the z-axis shows depth and generally represents values. On the first mention, refer to the z-axis as the *value (z) axis,* where both the x-axis and y-axis are category axes. On subsequent mentions, use *z-axis*.
 
----
+Don't use italic formatting for the *z* in *z-axis* unless the entire word is italic.
 
-- Last updated on 2022-06-24
+**See also** [value axis](../v/value-axis)

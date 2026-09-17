@@ -1,20 +1,16 @@
 ---
-title: .NET - Microsoft Style Guide
-description: Describes guidelines to use '.NET' in Microsoft documents and
-  provides multiple examples.
-author: ProfessorKendrick
+title: .NET
+summary: Describes guidelines to use '.NET' in Microsoft documents and provides
+  multiple examples.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/n/net
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/n/net
 ---
 
-## Feedback
+## .NET
 
-Was this page helpful?
+Note capitalization. Always begin with a period (.). Don't spell out as *dot NET*.
 
-No
+Use *Microsoft.NET* on the first mention. After that, it's OK to use *.NET.*
 
----
-
-- Last updated on 2022-06-24
+It's OK to begin a sentence with *.NET* to avoid awkwardness or ambiguity, but be aware that the consecutive periods *(..NET)* might briefly confuse some readers.

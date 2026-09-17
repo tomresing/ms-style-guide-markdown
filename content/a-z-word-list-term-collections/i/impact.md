@@ -1,19 +1,11 @@
 ---
-title: impact - Microsoft Style Guide
-description: Describes the use of the term "impact" in Microsoft content.
-author: ProfessorKendrick
+title: impact
+summary: Describes the use of the term "impact" in Microsoft content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/i/impact
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/i/impact
 ---
 
-## Feedback
+## impact
 
-Was this page helpful?
-
-No
-
----
-
-- Last updated on 2022-06-24
+Use only as a noun. As a verb, use *affect* or another synonym.

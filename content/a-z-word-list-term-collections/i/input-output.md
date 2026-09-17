@@ -1,20 +1,16 @@
 ---
-title: input/output, I/O, input/output control - Microsoft Style Guide
-description: Describes how to use the terms "input/output", "I/O", and
-  "input/output control" in Microsoft content.
-author: ProfessorKendrick
+title: input/output, I/O, input/output control
+summary: Describes how to use the terms "input/output", "I/O", and "input/output
+  control" in Microsoft content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/i/input-output
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/i/input-output
 ---
 
-## Feedback
+## input/output, I/O, input/output control
 
-Was this page helpful?
+Avoid *input/output* in content for a general audience. If you must use it, spell out on the first mention, and then abbreviate as *I/O*.
 
-No
+In content for a technical audience, you don't need to spell out on the first mention.
 
----
-
-- Last updated on 2022-06-24
+Use *input/output control* only in content for a technical audience. Always spell out on the first mention. On subsequent mentions, it's OK to abbreviate as *I/O control* or *IOCTL*.

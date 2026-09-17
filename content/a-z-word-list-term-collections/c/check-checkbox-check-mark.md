@@ -1,20 +1,18 @@
 ---
-title: check, checkbox, check mark - Microsoft Style Guide
-description: In this article, learn about style guidelines for using the terms
+title: check, checkbox, check mark
+summary: In this article, learn about style guidelines for using the terms
   'check', 'checkbox, and 'check mark' in Microsoft documents.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/c/check-checkbox-check-mark
 ms_date: 2023-11-02T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/c/check-checkbox-check-mark
 ---
 
-## Feedback
+## check, checkbox, check mark
 
-Was this page helpful?
+Use *check mark* to refer to a mark placed next to an item to show it’s selected.
 
-No
+Use *checkbox*, not *box* or *check box*, to refer to a checkbox in UI. Avoid talking about UI elements. Instead, discuss what the customer needs to do or what they're looking at.
 
----
+Use *select* and *clear* with checkboxes, not *turn on* and *turn off,**mark* and *unmark,**check* and *uncheck,* or *select* and *deselect.*
 
-- Last updated on 2023-11-02
+**See also** [Describing interactions with UI](../../procedures-instructions/describing-interactions-with-ui), [Formatting text in instructions](../../procedures-instructions/formatting-text-in-instructions)

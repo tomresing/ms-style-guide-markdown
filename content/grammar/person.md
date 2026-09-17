@@ -1,12 +1,10 @@
 ---
-title: Person - Microsoft Style Guide
-description: Discusses that in grammar, person refers to the point of view
+title: Person
+summary: Discusses that in grammar, person refers to the point of view
   represented by a statement and determines which pronoun to use.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/grammar/person
 ms_date: 2022-06-24T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/grammar/person
 ---
 
 ## Person

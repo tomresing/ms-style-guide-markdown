@@ -1,20 +1,18 @@
 ---
-title: launch - Microsoft Style Guide
-description: This article provides a link to learn how to use the term launch in
+title: launch
+summary: This article provides a link to learn how to use the term launch in
   Microsoft documents.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/l/launch
 ms_date: 2018-04-30T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/l/launch
 ---
 
-## Feedback
+## launch
 
-Was this page helpful?
+Don't use to mean opening an app or form. Use *open* instead.
 
-No
+**Examples**  
+Select a tile to open an app.  
+Select **Register** to open the registration form.
 
----
-
-- Last updated on 2022-06-24
+**See also** [Describing interactions with UI](../../procedures-instructions/describing-interactions-with-ui)

@@ -1,20 +1,16 @@
 ---
 title: multifactor authentication- Microsoft Style Guide
-description: Describes when to use the term multifactor authentication and
-  clarifies that this term must not be hyphenated nor abbreviated.
-author: ProfessorKendrick
+summary: Describes when to use the term multifactor authentication and clarifies
+  that this term must not be hyphenated nor abbreviated.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/m/multifactor-authentication
 ms_date: 2020-03-30T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/m/multifactor-authentication
 ---
 
-## Feedback
+## multifactor authentication
 
-Was this page helpful?
+When describing an authentication that uses more than one factor, use the term *multifactor authentication*.
 
-No
+Don’t use *multi-factor*. Instead always use *multifactor*, without the hyphen.
 
----
-
-- Last updated on 2022-06-24
+Don’t use the abbreviated or acronym form of this term.

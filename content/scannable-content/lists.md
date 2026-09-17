@@ -1,13 +1,11 @@
 ---
-title: Lists - Microsoft Style Guide
-description: Discusses lists, which are a great way to present complex text in a
-  way that's easy to scan. A list should have at least two items but no more
-  than seven items.
-author: ProfessorKendrick
+title: Lists
+summary: Discusses lists, which are a great way to present complex text in a way
+  that's easy to scan. A list should have at least two items but no more than
+  seven items.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/scannable-content/lists
 ms_date: 2023-06-14T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/scannable-content/lists
 ---
 
 ## Lists

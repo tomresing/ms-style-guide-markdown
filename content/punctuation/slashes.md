@@ -1,12 +1,10 @@
 ---
-title: Slashes - Microsoft Style Guide
-description: Instructs that when necessary, differentiate between a slash for
-  URLs and a backslash for servers and folders.
-author: ProfessorKendrick
+title: Slashes
+summary: Instructs that when necessary, differentiate between a slash for URLs
+  and a backslash for servers and folders.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/punctuation/slashes
 ms_date: 2019-09-05T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/punctuation/slashes
 ---
 
 ## Slashes

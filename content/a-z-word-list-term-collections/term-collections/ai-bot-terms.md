@@ -1,13 +1,11 @@
 ---
-title: AI and bot terms - Microsoft Style Guide
-description: Describes how to refer to various terms relating to AI and bot
+title: AI and bot terms
+summary: Describes how to refer to various terms relating to AI and bot
   technology and provides a table that outlines usage and example of various
   AI-related terms.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/ai-bot-terms
 ms_date: 2019-02-21T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/ai-bot-terms
 ---
 
 ## AI and bot terms

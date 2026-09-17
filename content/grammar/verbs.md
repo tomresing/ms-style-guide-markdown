@@ -1,12 +1,10 @@
 ---
-title: Verbs - Microsoft Style Guide
-description: Discusses that using precise verbs, such as verb tense, in the
-  right way helps you write clear and simple sentences.
-author: ProfessorKendrick
+title: Verbs
+summary: Discusses that using precise verbs, such as verb tense, in the right
+  way helps you write clear and simple sentences.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/grammar/verbs
 ms_date: 2025-03-24T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/grammar/verbs
 ---
 
 ## Verbs

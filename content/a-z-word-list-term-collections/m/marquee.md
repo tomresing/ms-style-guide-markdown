@@ -1,20 +1,14 @@
 ---
-title: marquee - Microsoft Style Guide
-description: Describes guidelines to use 'marquee' in Microsoft documents and
+title: marquee
+summary: Describes guidelines to use 'marquee' in Microsoft documents and
   provides alternate examples.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/m/marquee
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/m/marquee
 ---
 
-## Feedback
+## marquee
 
-Was this page helpful?
+It's OK to use *marquee* to refer to the scrolling text feature on webpages. Don't use to refer to the feature that draws a dotted line around a selection on the screen. Use *bounding outline* instead.
 
-No
-
----
-
-- Last updated on 2022-06-24
+**See also** [bounding outline](../b/bounding-outline), [dotted rectangle](../d/dotted-rectangle)
