@@ -1,21 +1,12 @@
 ---
-title: unregister - Microsoft Style Guide
-description: Describes how to implement the term 'unregister' in Microsoft
-  content and outlines when to use the term for general audiences and
-  developers.
-author: ProfessorKendrick
+title: unregister
+summary: Describes how to implement the term 'unregister' in Microsoft content
+  and outlines when to use the term for general audiences and developers.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/u/unregister
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/u/unregister
 ---
 
-## Feedback
+## unregister
 
-Was this page helpful?
-
-No
-
----
-
-- Last updated on 2022-06-24
+Don't use in content for a general audience. It's OK to use *unregister* in content for developers.

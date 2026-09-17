@@ -1,12 +1,10 @@
 ---
-title: Formatting developer text elements - Microsoft Style Guide
-description: This topic discusses formatting developer text elements in a way
-  that's consistent to help readers locate and interpret information.
-author: ProfessorKendrick
+title: Formatting developer text elements
+summary: This topic discusses formatting developer text elements in a way that's
+  consistent to help readers locate and interpret information.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/developer-content/formatting-developer-text-elements
 ms_date: 2026-04-23T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/developer-content/formatting-developer-text-elements
 ---
 
 ## Formatting developer text elements

@@ -1,20 +1,17 @@
 ---
-title: C, C++, C\# - Microsoft Style Guide
-description: This article outlines use of the programs C, C++, and C\# per
-  Microsoft style guidelines.
-author: ProfessorKendrick
+title: C, C++, C\#
+summary: This article outlines use of the programs C, C++, and C\# per Microsoft
+  style guidelines.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/c/c-cplusplus-csharp
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/c/c-cplusplus-csharp
 ---
 
-## Feedback
+## C, C++, C#
 
-Was this page helpful?
+It's OK to use *C, C++,* and *C#* as adjectives. Don't form hyphenated modifiers with them, such as *C-based* or *C-callable*.
 
-No
-
----
-
-- Last updated on 2022-06-24
+**Examples**  
+a C program  
+a program based on C++  
+built with exported functions that are callable by C

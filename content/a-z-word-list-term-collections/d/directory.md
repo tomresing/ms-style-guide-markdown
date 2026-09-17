@@ -1,20 +1,16 @@
 ---
-title: directory - Microsoft Style Guide
-description: Describes guidelines to use the word 'directory' in Microsoft
-  documents including instances where this word is appropriate or allowed.
-author: ProfessorKendrick
+title: directory
+summary: Describes guidelines to use the word 'directory' in Microsoft documents
+  including instances where this word is appropriate or allowed.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/d/directory
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/d/directory
 ---
 
-## Feedback
+## directory
 
-Was this page helpful?
+Most of the time, use *folder* instead. Use *directory* only in content for developers when you need to refer to the structure of the file system or to match the API.
 
-No
+Don't use *directory icon.*
 
----
-
-- Last updated on 2022-06-24
+**See also** [folder](../f/folder-folder-icon)

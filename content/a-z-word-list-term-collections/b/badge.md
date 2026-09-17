@@ -1,19 +1,13 @@
 ---
-title: Badge - Microsoft Style Guide
-description: This article outlines use of the word badge per Microsoft style guidelines.
-author: ProfessorKendrick
+title: Badge
+summary: This article outlines use of the word badge per Microsoft style guidelines.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/b/badge
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/b/badge
 ---
 
-## Feedback
+## Badge
 
-Was this page helpful?
+A star, medal, or other virtual recognition that indicates an achievement in a game or other program. Use title-style capitalization for a badge name. Lowercase the word *badge*.
 
-No
-
----
-
-- Last updated on 2022-06-24
+**See also** [achievement](../a/achievement)

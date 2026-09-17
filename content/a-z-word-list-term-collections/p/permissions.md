@@ -1,19 +1,22 @@
 ---
-title: permissions - Microsoft Style Guide
-description: Describes how to use the term "permissions" in Microsoft content.
-author: ProfessorKendrick
+title: permissions
+summary: Describes how to use the term "permissions" in Microsoft content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/p/permissions
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/p/permissions
 ---
 
-## Feedback
+## permissions
 
-Was this page helpful?
+Use only to refer to operations associated with a specific shared resource, such as a file, directory, or printer, that are authorized by the system administrator for individual user accounts or administrative groups. Permissions are *granted* or *assigned,* not *allowed*.
 
-No
+If you refer to a named permission, use title-style capitalization and regular type.
 
----
+Don't use *privileges* or *permission records* as a synonym for *permissions*.
 
-- Last updated on 2022-06-24
+**Examples**  
+Setting the Traverse Folder permission on a folder doesn't automatically set the Execute File permission on all files within that folder.  
+Grant Read, Read and Execute, and List Folder Content permissions to the Users group.  
+Whenever possible, assign permissions to groups instead of users.
+
+**See also** [rights](../r/rights), [user rights](../u/user-rights)

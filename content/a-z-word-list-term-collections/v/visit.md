@@ -1,20 +1,23 @@
 ---
-title: visit - Microsoft Style Guide
-description: Describes how to implement the term 'visit' in Microsoft content
-  and provides a link to the describing interactions with UI topic.
-author: ProfessorKendrick
+title: visit
+summary: Describes how to implement the term 'visit' in Microsoft content and
+  provides a link to the describing interactions with UI topic.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/v/visit
 ms_date: 2026-07-02T00:00:00Z
 updated_at: 2026-07-06T16:22:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/v/visit
 ---
 
-## Feedback
+## visit
 
-Was this page helpful?
+To describe opening or switching to a website or webpage, use *go to* in most cases.
 
-No
+It's OK to use *visit* in the context of a website or webpage if you're using a tone that's meant to imply:
 
----
+- More of a suggestion than a required action.
+- The intention of staying for a while and browsing around, rather than viewing specific information.
 
-- Last updated on 2026-07-06
+**Examples**  
+For information about billing, go to the pricing page.  
+Visit the product website to learn about offerings, get advice, and more.
+
+**See also** [Describing interactions with the UI](../../procedures-instructions/describing-interactions-with-ui)

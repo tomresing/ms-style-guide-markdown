@@ -1,19 +1,19 @@
 ---
-title: interface - Microsoft Style Guide
-description: Describes how to use the term "interface" in Microsoft content.
-author: ProfessorKendrick
+title: interface
+summary: Describes how to use the term "interface" in Microsoft content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/i/interface
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/i/interface
 ---
 
-## Feedback
+## interface
 
-Was this page helpful?
+Use only as a noun, as in *user interface* and *application programming interface*. Use *interface* by itself only if the context is clear.
 
-No
+For a general audience, it's OK to use *UI* or *API* after spelling out on the first mention. For a technical audience, it's not necessary to spell out those terms on the first mention.
 
----
+Don't use *interface* as a verb. Use *interact* or *communicate* instead.
 
-- Last updated on 2022-06-24
+**Examples**  
+The familiar interface helps to minimize training requirements.  
+With Skype for Business, you can communicate with your team from wherever you are.

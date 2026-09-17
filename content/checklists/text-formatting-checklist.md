@@ -1,21 +1,22 @@
 ---
 title: Text-formatting checklist
-description: Ensure your text is clear and professional with this
-  text-formatting checklist. Follow guidelines for font, alignment, and spacing
-  to maintain consistency and readability in your documentation.
-author: ProfessorKendrick
+summary: Ensure your text is clear and professional with this text-formatting
+  checklist. Follow guidelines for font, alignment, and spacing to maintain
+  consistency and readability in your documentation.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/checklists/text-formatting-checklist
 ms_date: 2018-02-23T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/checklists/text-formatting-checklist
 ---
 
-## Feedback
+- Use the Segoe font family.
+- Use sentence-style capitalization for everything except proper nouns.
+- Use left alignment. Never center text or align both right and left margins.
+- Avoid widows, orphans, and lines that end with hyphens.
+- Don’t compress line spacing.  
+	Learn more [about using type](../text-formatting/using-type/).
+- Format text elements consistently.
 
-Was this page helpful?
-
-No
-
----
-
-- Last updated on 2025-01-08
+Learn about  
+[Formatting common text elements](../text-formatting/formatting-common-text-elements)  
+[Formatting titles](../text-formatting/formatting-titles)  
+[Formatting developer text elements](../developer-content/formatting-developer-text-elements)

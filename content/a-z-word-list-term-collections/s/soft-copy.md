@@ -1,20 +1,12 @@
 ---
-title: soft copy - Microsoft Style Guide
-description: Describes guidelines to use 'soft copy' in Microsoft documents.
-  Don't use. Use a more specific term.
-author: ProfessorKendrick
+title: soft copy
+summary: Describes guidelines to use 'soft copy' in Microsoft documents. Don't
+  use. Use a more specific term.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/soft-copy
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/soft-copy
 ---
 
-## Feedback
+## soft copy
 
-Was this page helpful?
-
-No
-
----
-
-- Last updated on 2022-06-24
+Don't use. Use a more specific term, such as *electronic document* or *file,* instead.

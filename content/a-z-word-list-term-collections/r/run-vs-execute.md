@@ -1,20 +1,18 @@
 ---
-title: run vs. execute - Microsoft Style Guide
-description: In this article, learn about style guidelines for using the terms
-  'run' and 'execute' in Microsoft documents.
-author: ProfessorKendrick
+title: run vs. execute
+summary: In this article, learn about style guidelines for using the terms 'run'
+  and 'execute' in Microsoft documents.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/r/run-vs-execute
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/r/run-vs-execute
 ---
 
-## Feedback
+## run vs. execute
 
-Was this page helpful?
+Avoid *execute* except to follow the UI. Use *run* instead. If the UI includes *execute,* the resulting action is still *run*.
 
-No
+Always use *run* in the context of operating systems, macros, and queries.
 
----
-
-- Last updated on 2022-06-24
+**Examples**  
+To run the program, select **Execute**.  
+Commands are run in the order in which they're listed in the file.

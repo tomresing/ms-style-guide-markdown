@@ -1,19 +1,20 @@
 ---
-title: near real time, near-real-time - Microsoft Style Guide
-description: Learn how to use 'near real time' and 'near-real-time' in Microsoft content.
-author: ProfessorKendrick
+title: near real time, near-real-time
+summary: Learn how to use 'near real time' and 'near-real-time' in Microsoft content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/n/near-real-time
 ms_date: 2026-04-23T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/n/near-real-time
 ---
 
-## Feedback
+## near real time, near-real-time
 
-Was this page helpful?
+The term *near real time* describes something that's diplayed or reported a short time after an event happens.
 
-No
+The noun form is three words and typically follows the preposition *in*. When the term is an adjective that precedes a noun, the entire string is hyphenated.
 
----
+**Examples**  
+The service provides analytics in near real time.  
+The service provides near-real-time analytics.
 
-- Last updated on 2026-04-28
+**See also**  
+[real time, real-time](../r/real-time)

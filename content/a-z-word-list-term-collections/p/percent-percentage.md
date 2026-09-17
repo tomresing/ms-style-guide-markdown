@@ -1,20 +1,18 @@
 ---
-title: percent, percent sign (%), percentage - Microsoft Style Guide
-description: Describes guidelines to use 'percent' or 'percentage' in Microsoft
+title: percent, percent sign (%), percentage
+summary: Describes guidelines to use 'percent' or 'percentage' in Microsoft
   documents and provides exception examples.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/p/percent-percentage
 ms_date: 2023-11-15T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/p/percent-percentage
 ---
 
-## Feedback
+## percent, percentage
 
-Was this page helpful?
+Use the percent sign (“%”) with numerals, rather than spelling out “percent.” You don’t need a space between the percent sign and the numeral.
 
-No
+**Exceptions**
 
----
-
-- Last updated on 2023-11-15
+- Don't use "%" to refer to the symbol itself—refer to the “percent sign.”
+- Don't use the percent sign at the beginning of a sentence.
+- Don't use the percent sign to mean "percentage."

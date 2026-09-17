@@ -1,13 +1,11 @@
 ---
-title: Colons - Microsoft Style Guide
-description: Describes how to use colons in various contexts including preceding
+title: Colons
+summary: Describes how to use colons in various contexts including preceding
   lists, within sentences, in titles and headings, in UI, and when displaying
   clock time.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/punctuation/colons
 ms_date: 2026-02-06T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/punctuation/colons
 ---
 
 ## Colons

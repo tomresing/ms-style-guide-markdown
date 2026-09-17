@@ -1,19 +1,17 @@
 ---
-title: hierarchical menu - Microsoft Style Guide
-description: Describes how to use the term "hierarchical menu" in Microsoft content.
-author: ProfessorKendrick
+title: hierarchical menu
+summary: Describes how to use the term "hierarchical menu" in Microsoft content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/h/hierarchical-menu
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/h/hierarchical-menu
 ---
 
-## Feedback
+## hierarchical menu
 
-Was this page helpful?
+Don't use. Use *submenu* if you need to emphasize how the menu works as a feature. Better yet, avoid talking about UI. Instead, talk about what the customer wants to do.
 
-No
+It's OK to use *hierarchical menu* when you need to explain types of menus to a technical audience.
 
----
-
-- Last updated on 2022-06-24
+**Examples**  
+On the **Edit** menu, point to **Clear**, and then select the item you want to clear.  
+Select **Edit**, point to **Clear**, and then select the item you want to clear.

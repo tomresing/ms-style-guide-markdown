@@ -1,13 +1,11 @@
 ---
-title: What's new? - Microsoft Style Guide
-description: Provides a table that shows a history of recent updates to the
+title: What's new?
+summary: Provides a table that shows a history of recent updates to the
   Microsoft Writing Style Guide and outlines the date and changes made to
   various articles.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/welcome/whats-new
 ms_date: 2026-07-02T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/welcome/whats-new
 ---
 
 ## What's new

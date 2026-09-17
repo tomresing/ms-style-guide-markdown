@@ -1,19 +1,13 @@
 ---
-title: opcode - Microsoft Style Guide
-description: Describes guidelines to use 'opcode' in Microsoft documents.
-author: ProfessorKendrick
+title: opcode
+summary: Describes guidelines to use 'opcode' in Microsoft documents.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/o/opcode
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/o/opcode
 ---
 
-## Feedback
+## opcode
 
-Was this page helpful?
+It's OK to use *opcode* to refer to a programming term, such as the *opcode* parameter.
 
-No
-
----
-
-- Last updated on 2022-06-24
+Don't use *opcode* as a shortened form of *operation code*. Use *operation code* instead.

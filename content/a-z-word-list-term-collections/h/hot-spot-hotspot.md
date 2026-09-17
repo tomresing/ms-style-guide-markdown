@@ -1,19 +1,19 @@
 ---
-title: hot spot, hotspot - Microsoft Style Guide
-description: Describes how to use the terms "hot spot" and "hotspot" in Microsoft content.
-author: ProfessorKendrick
+title: hot spot, hotspot
+summary: Describes how to use the terms "hot spot" and "hotspot" in Microsoft content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/h/hot-spot-hotspot
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/h/hot-spot-hotspot
 ---
 
-## Feedback
+## hot spot, hotspot
 
-Was this page helpful?
+Don't use to refer to a link.
 
-No
+In content for a technical audience, use two words to refer to the specific pixel on the pointer that defines the exact location to which a user is pointing.
 
----
+Use one word when referring to a site that offers internet access over a wireless LAN.
 
-- Last updated on 2022-06-24
+Use one word when referring to programming elements, such as the elements of the **HotSpot** class, or to match UI.
+
+**See also** [hyperlink](hyperlink)

@@ -1,14 +1,12 @@
 ---
 title: Procedures and instructions checklist
-description: Discover best practices for writing clear and concise procedures
-  and instructions in your documentation. Learn how to effectively use numbered
+summary: Discover best practices for writing clear and concise procedures and
+  instructions in your documentation. Learn how to effectively use numbered
   steps, describe UI interactions, and accommodate alternative input methods to
   enhance user experience and accessibility.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/checklists/procedures-and-instructions-checklist
 ms_date: 2026-03-18T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/checklists/procedures-and-instructions-checklist
 ---
 
 In the best-case scenario, the UI is so clear and task driven that you don't need additional instructions. When the task is more complex or involves more than one UI, look for the simplest way to present it. That might be:

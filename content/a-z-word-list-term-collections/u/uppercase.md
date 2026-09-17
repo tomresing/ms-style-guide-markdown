@@ -1,20 +1,20 @@
 ---
-title: uppercase - Microsoft Style Guide
-description: Describes how to implement the term 'uppercase' in Microsoft
-  content and provides examples of using 'uppercase' in content.
-author: ProfessorKendrick
+title: uppercase
+summary: Describes how to implement the term 'uppercase' in Microsoft content
+  and provides examples of using 'uppercase' in content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/u/uppercase
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/u/uppercase
 ---
 
-## Feedback
+## uppercase
 
-Was this page helpful?
+Most of the time, use *capital letters* instead of *uppercase.* It's OK to use *uppercase* when comparing with *lowercase* or to follow the UI.
 
-No
+One word. Don't use *uppercase* as a verb. Don't use *uppercased*.
 
----
+When using *uppercase* and *lowercase* together, don't use a suspended hyphen (as in *upper- and lowercase*). Spell out both words instead.
 
-- Last updated on 2022-06-24
+**Examples**  
+Change all the lowercase letters to uppercase.  
+Change the case of both lowercase and uppercase letters.

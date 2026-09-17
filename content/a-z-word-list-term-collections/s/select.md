@@ -1,20 +1,16 @@
 ---
-title: select - Microsoft Style Guide
-description: Describes guidelines to use 'select' in Microsoft documents, and
+title: select
+summary: Describes guidelines to use 'select' in Microsoft documents, and
   provides an additional resource link.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/select
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/select
 ---
 
-## Feedback
+## select
 
-Was this page helpful?
+Use *select* to refer to marking text, objects, cells, and other items that a customer will take action on, such as copying or moving. Describe the marked items as *the selection* or *the* *selected* text, objects, cells, and so on.
 
-No
+Don't use *highlight* or *pick* as a synonym for *select*.
 
----
-
-- Last updated on 2022-06-24
+For information about using *select* as a verb in instructions and procedures, see [Describing interactions with UI](../../procedures-instructions/describing-interactions-with-ui).

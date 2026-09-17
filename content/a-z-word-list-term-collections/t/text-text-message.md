@@ -1,20 +1,18 @@
 ---
-title: text, text message - Microsoft Style Guide
-description: Describes how to implement the terms 'text' and 'text message' in
+title: text, text message
+summary: Describes how to implement the terms 'text' and 'text message' in
   Microsoft content and provides a link to the message topic.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/t/text-text-message
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/t/text-text-message
 ---
 
-## Feedback
+## text, text message
 
-Was this page helpful?
+Use as an adjective, a noun, or a verb in the context of SMS messages. Use *text message* and *send* or *receive* *a text message,* if necessary, to avoid ambiguity.
 
-No
+Use *text* or *text message* rather than *SMS* (short message service) or *MMS* (multimedia messaging service) for the US audience. For markets where SMS may be the more common usage, localization teams will use the appropriate term.
 
----
+**Global tip** In some languages, *text* is translated differently as a noun and a verb. Provide enough context for localization to determine how to translate *text.* For example, instead of *text a friend,* say *send a text to a friend* or *text a quick message to a friend.*
 
-- Last updated on 2022-06-24
+**See also** [message](../m/message)

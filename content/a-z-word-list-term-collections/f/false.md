@@ -1,20 +1,12 @@
 ---
-title: FALSE - Microsoft Style Guide
-description: Describes guidelines to use 'FALSE' in Microsoft documents and
-  provides alternate examples.
-author: ProfessorKendrick
+title: "FALSE"
+summary: Describes guidelines to use 'FALSE' in Microsoft documents and provides
+  alternate examples.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/f/false
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/f/false
 ---
 
-## Feedback
+## FALSE
 
-Was this page helpful?
-
-No
-
----
-
-- Last updated on 2022-06-24
+In content for developers, use all uppercase to refer to a return value, or follow the capitalization used in the specific programming language.

@@ -1,12 +1,10 @@
 ---
-title: Design planning - Microsoft Style Guide
-description: Discusses design planning, such as design is more than a pretty
-  face because it provides a familiar environment for content.
-author: ProfessorKendrick
+title: Design planning
+summary: Discusses design planning, such as design is more than a pretty face
+  because it provides a familiar environment for content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/design-planning
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/design-planning
 ---
 
 ## Design planning

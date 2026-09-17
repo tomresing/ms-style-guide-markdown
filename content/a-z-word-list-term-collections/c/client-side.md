@@ -1,20 +1,16 @@
 ---
-title: client side, client-side - Microsoft Style Guide
-description: Describes how to use the term 'client side' in Microsoft content
-  and clarifies how to hyphenate the term depending on context.
-author: ProfessorKendrick
+title: client side, client-side
+summary: Describes how to use the term 'client side' in Microsoft content and
+  clarifies how to hyphenate the term depending on context.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/c/client-side
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/c/client-side
 ---
 
-## Feedback
+## client side, client-side
 
-Was this page helpful?
+Don't use for a general audience. Use *client* instead.
 
-No
+It's OK to use *client side* in writing for a technical audience when it refers specifically to the client part (side) of a program or protocol that acts on both a server computer and a client computer.
 
----
-
-- Last updated on 2022-06-24
+Avoid using *client-side* as an adjective. If you must use it as an adjective, hyphenate it.

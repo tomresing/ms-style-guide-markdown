@@ -1,13 +1,11 @@
 ---
 title: Word choice checklist
-description: Enhance your writing with this word choice checklist. Learn to use
+summary: Enhance your writing with this word choice checklist. Learn to use
   simple, precise language, avoid jargon, and choose words your audience
   understands.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/checklists/word-choice-checklist
 ms_date: 2021-04-30T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/checklists/word-choice-checklist
 ---
 
 Choose simple, precise words that you use in conversations.

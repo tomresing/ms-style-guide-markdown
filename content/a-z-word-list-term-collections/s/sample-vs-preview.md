@@ -1,20 +1,18 @@
 ---
-title: sample vs. preview - Microsoft Style Guide
-description: In this article, learn about style guidelines for using the terms
+title: sample vs. preview
+summary: In this article, learn about style guidelines for using the terms
   'style' and 'review' in Microsoft documents.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/sample-vs-preview
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/sample-vs-preview
 ---
 
-## Feedback
+## sample vs. preview
 
-Was this page helpful?
+Use *sample* to describe a graphic representation of something that might show up on the screen. Use *preview* to describe a graphic representation of exactly what the customer will see on the screen.
 
-No
+**Examples**  
+This displays a sample of what the control will look like with the scheme applied.  
+To preview what the control will look like with the scheme applied, select **Preview**.
 
----
-
-- Last updated on 2022-06-24
+**See also** [preview](../p/preview)

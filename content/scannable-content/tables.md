@@ -1,12 +1,10 @@
 ---
-title: Tables - Microsoft Style Guide
-description: Discusses tables, which make complex information easier to
-  understand by presenting it in a clear structure.
-author: ProfessorKendrick
+title: Tables
+summary: Discusses tables, which make complex information easier to understand
+  by presenting it in a clear structure.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/scannable-content/tables
 ms_date: 2023-03-10T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/scannable-content/tables
 ---
 
 ## Tables

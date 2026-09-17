@@ -1,20 +1,16 @@
 ---
-title: blog, blogger, blogroll, weblog - Microsoft Style Guide
-description: This article outlines use of the terms blog, blogger, blogroll, and
+title: blog, blogger, blogroll, weblog
+summary: This article outlines use of the terms blog, blogger, blogroll, and
   weblog per Microsoft style guidelines.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/b/blog-blogger-blogroll-weblog
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/b/blog-blogger-blogroll-weblog
 ---
 
-## Feedback
+## blog, blogger, blogroll, weblog
 
-Was this page helpful?
+Use *blog* as a noun or verb. Don't use *weblog.*
 
-No
+Use *blogger* to refer to a person who writes or publishes entries for a blog.
 
----
-
-- Last updated on 2022-06-24
+Use *blogroll* to refer to a list of links to other online content, particularly blogs, that's provided on a blog page.

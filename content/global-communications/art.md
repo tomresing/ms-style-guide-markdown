@@ -1,12 +1,10 @@
 ---
-title: Art - Microsoft Style Guide
-description: Instructs to use guidelines for Art to create or choose images that
-  are helpful, legal, and inoffensive throughout the world.
-author: ProfessorKendrick
+title: Art
+summary: Instructs to use guidelines for Art to create or choose images that are
+  helpful, legal, and inoffensive throughout the world.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/global-communications/art
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/global-communications/art
 ---
 
 ## Art

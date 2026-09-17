@@ -1,13 +1,11 @@
 ---
-title: Structural and technical considerations - Microsoft Style Guide
-description: Discusses clarify intent before acting, on structural and technical
+title: Structural and technical considerations
+summary: Discusses clarify intent before acting, on structural and technical
   considerations, until you're sure your bot can reliably interpret
   conversational cues.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/structural-technical-considerations
 ms_date: 2019-02-21T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/structural-technical-considerations
 ---
 
 ## Structural and technical considerations

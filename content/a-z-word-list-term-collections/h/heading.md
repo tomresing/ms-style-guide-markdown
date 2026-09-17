@@ -1,19 +1,13 @@
 ---
-title: heading - Microsoft Style Guide
-description: Describes how to use the term "heading" in Microsoft content.
-author: ProfessorKendrick
+title: heading
+summary: Describes how to use the term "heading" in Microsoft content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/h/heading
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/h/heading
 ---
 
-## Feedback
+## heading
 
-Was this page helpful?
+Use instead of *head* or *header* to refer to the heading of an article or a section.
 
-No
-
----
-
-- Last updated on 2022-06-24
+**See also** [Headings](../../scannable-content/headings)

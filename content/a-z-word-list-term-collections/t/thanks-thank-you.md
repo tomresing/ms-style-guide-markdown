@@ -1,20 +1,18 @@
 ---
-title: thanks, thank you - Microsoft Style Guide
-description: Describes how to implement the terms 'thanks' and 'thank you' in
+title: thanks, thank you
+summary: Describes how to implement the terms 'thanks' and 'thank you' in
   Microsoft content and provides examples of using these terms in content.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/t/thanks-thank-you
 ms_date: 2018-06-26T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/t/thanks-thank-you
 ---
 
-## Feedback
+## thanks, thank you
 
-Was this page helpful?
+In general, use *thanks* not *thank you.* It's OK to use *thank you* in content that has a formal tone or is about a serious subject, such as cybersecurity or privacy.
 
-No
+Don't use *thanks* unnecessarily. Use *thanks* as the closing in email, a letter, or a similar message. Otherwise, thank the customer only when they've been inconvenienced or they went out of their way to do something.
 
----
-
-- Last updated on 2022-06-24
+**Examples**  
+Thanks for your feedback.  
+Microsoft offers a 10 percent military discount as a way to say thank you for your service.

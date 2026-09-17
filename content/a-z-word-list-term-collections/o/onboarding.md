@@ -1,19 +1,11 @@
 ---
-title: onboarding - Microsoft Style Guide
-description: Describes guidelines to use 'onboarding' in Microsoft documents.
-author: ProfessorKendrick
+title: onboarding
+summary: Describes guidelines to use 'onboarding' in Microsoft documents.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/o/onboarding
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/o/onboarding
 ---
 
-## Feedback
+## onboarding
 
-Was this page helpful?
-
-No
-
----
-
-- Last updated on 2022-06-24
+Don't use to mean the process of introducing employees to a new role or organization. Use *orientation* instead.

@@ -1,13 +1,11 @@
 ---
-title: Use technical terms carefully - Microsoft Style Guide
-description: Instructs to use technical terms carefully. Use them when they're
-  the clearest way to communicate your message, but don't use them when an
-  everyday term will do.
-author: ProfessorKendrick
+title: Use technical terms carefully
+summary: Instructs to use technical terms carefully. Use them when they're the
+  clearest way to communicate your message, but don't use them when an everyday
+  term will do.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/word-choice/use-technical-terms-carefully
 ms_date: 2024-08-26T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/word-choice/use-technical-terms-carefully
 ---
 
 ## Use technical terms carefully

@@ -1,20 +1,21 @@
 ---
-title: n - Microsoft Style Guide
-description: Describes guidelines to use 'n' in Microsoft documents and provides
+title: n
+summary: Describes guidelines to use 'n' in Microsoft documents and provides
   multiple examples.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/n/n
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/n/n
 ---
 
-## Feedback
+## n
 
-Was this page helpful?
+Use a lowercase *n* in italic type to refer to a generic use of a number—when the value of a number is arbitrary or immaterial.
 
-No
+**Example**  
+Move the cursor *n* spaces to the right.
 
----
+Reserve a lowercase *x* in italic type for representing an unknown in mathematical equations (a variable).
 
-- Last updated on 2022-06-24
+**Global note** Because *n* doesn't refer to the generic use of a number in all languages, using *n* for this purpose might lead to mistranslation in machine-translated content.
+
+**See also** [x](../x/x)

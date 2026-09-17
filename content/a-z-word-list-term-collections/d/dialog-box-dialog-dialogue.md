@@ -1,20 +1,16 @@
 ---
-title: dialog box, dialog, dialogue - Microsoft Style Guide
-description: Describes guidelines to use 'dialog' in Microsoft documents and
+title: dialog box, dialog, dialogue
+summary: Describes guidelines to use 'dialog' in Microsoft documents and
   provides correct and alternate examples.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/d/dialog-box-dialog-dialogue
 ms_date: 2021-03-31T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/d/dialog-box-dialog-dialogue
 ---
 
-## Feedback
+## dialog box, dialog, dialogue
 
-Was this page helpful?
+In general, avoid talking about UI. Instead, talk about what the customer needs to do.
 
-No
+When you need to refer to a dialog box, use *dialog*. Don't use *pop-up window*, *dialog box*, or *dialogue box*.
 
----
-
-- Last updated on 2022-06-24
+**See also** [Describing interactions with UI](../../procedures-instructions/describing-interactions-with-ui), [Formatting text in instructions](../../procedures-instructions/formatting-text-in-instructions)

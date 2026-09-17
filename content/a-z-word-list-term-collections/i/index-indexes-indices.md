@@ -1,20 +1,12 @@
 ---
-title: index, indexes, indices - Microsoft Style Guide
-description: Describes how to use the terms "index", "indexes", and "indices" in
+title: index, indexes, indices
+summary: Describes how to use the terms "index", "indexes", and "indices" in
   Microsoft content.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/i/index-indexes-indices
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/i/index-indexes-indices
 ---
 
-## Feedback
+## index, indexes, indices
 
-Was this page helpful?
-
-No
-
----
-
-- Last updated on 2022-06-24
+Use *indexes* as the plural form of *index.* Use *indices* only in the context of mathematical expressions.

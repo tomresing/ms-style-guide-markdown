@@ -1,20 +1,14 @@
 ---
-title: Blu-ray Disc - Microsoft Style Guide
-description: This article outlines use of the name Blu-ray Disc per Microsoft
-  style guidelines.
-author: ProfessorKendrick
+title: Blu-ray Disc
+summary: This article outlines use of the name Blu-ray Disc per Microsoft style
+  guidelines.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/b/blu-ray-disc
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/b/blu-ray-disc
 ---
 
-## Feedback
+## Blu-ray Disc
 
-Was this page helpful?
+Use this spelling and capitalization when talking about the disc. After the first mention, it's OK to abbreviate to *BD* (no hyphen).
 
-No
-
----
-
-- Last updated on 2022-06-24
+When referring to the technology (not a specific disc), it's OK to use *Blue-ray \[X\]*.

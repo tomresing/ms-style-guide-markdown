@@ -1,20 +1,14 @@
 ---
-title: screen resolution - Microsoft Style Guide
-description: In this article, learn about style guidelines for using the term
+title: screen resolution
+summary: In this article, learn about style guidelines for using the term
   'screen resolution' in Microsoft documents.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/screen-resolution
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/screen-resolution
 ---
 
-## Feedback
+## screen resolution
 
-Was this page helpful?
+For screen resolutions, use *number* × *number* instead of *number by number.* For example, use *640 × 480* instead of *640 by 480.*
 
-No
-
----
-
-- Last updated on 2022-06-24
+Use the multiplication sign (×) instead of the letter *x.*

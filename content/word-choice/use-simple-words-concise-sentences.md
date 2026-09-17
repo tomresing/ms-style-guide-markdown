@@ -1,12 +1,10 @@
 ---
-title: Use simple words, concise sentences - Microsoft Style Guide
-description: Instructs to make every word count. Concise, clear sentences save
+title: Use simple words, concise sentences
+summary: Instructs to make every word count. Concise, clear sentences save
   space, are easy to understand, and facilitate scanning.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/word-choice/use-simple-words-concise-sentences
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/word-choice/use-simple-words-concise-sentences
 ---
 
 ## Use simple words, concise sentences

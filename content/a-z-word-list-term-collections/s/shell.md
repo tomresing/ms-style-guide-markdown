@@ -1,20 +1,14 @@
 ---
-title: shell - Microsoft Style Guide
-description: Describes guidelines to use 'shell' in Microsoft documents, and
+title: shell
+summary: Describes guidelines to use 'shell' in Microsoft documents, and
   provides usage examples. Don't use in content for a general audience.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/shell
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/shell
 ---
 
-## Feedback
+## shell
 
-Was this page helpful?
+OK to use as a noun in content for a technical audience. Don't use in content for a general audience.
 
-No
-
----
-
-- Last updated on 2022-06-24
+Don't use as a verb, such as *shell* or *shell out*. Use more precise terminology, such as *create a new shell* or *return to the operating system*.

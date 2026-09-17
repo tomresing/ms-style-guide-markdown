@@ -1,13 +1,10 @@
 ---
-title: Hyphens - Microsoft Style Guide
-description: Describes how to use hyphens in various contexts in content
-  including predicate adjectives, noun modifiers, compound nouns, prefixes, and
-  more.
-author: ProfessorKendrick
+title: Hyphens
+summary: Describes how to use hyphens in various contexts in content including
+  predicate adjectives, noun modifiers, compound nouns, prefixes, and more.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/punctuation/dashes-hyphens/hyphens
 ms_date: 2026-02-18T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/punctuation/dashes-hyphens/hyphens
 ---
 
 ## Hyphens

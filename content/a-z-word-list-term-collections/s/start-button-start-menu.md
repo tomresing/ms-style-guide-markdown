@@ -1,20 +1,21 @@
 ---
-title: Start button, Start menu - Microsoft Style Guide
-description: Describes how to refer to the Start button and Start menu in
-  content and provides an example of referring to the Start button in content.
-author: ProfessorKendrick
+title: Start button, Start menu
+summary: Describes how to refer to the Start button and Start menu in content
+  and provides an example of referring to the Start button in content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/start-button-start-menu
 ms_date: 2019-09-21T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/start-button-start-menu
 ---
 
-## Feedback
+## Start button, Start menu
 
-Was this page helpful?
+Capitalize references to the Start menu and the Start button on the Windows taskbar. Don't use bold formatting for *Start* unless you're referring to the menu or button in instructions.
 
-No
+Don't refer to the Start button as the *Windows Start button*.
 
----
+Don't include the word *button* unless it's necessary for clarity. If you do, *button* is lowercase.
 
-- Last updated on 2022-06-24
+If possible, to help customers locate the button, include the Start graphic ![](media/start-button-start-menu/967781121.png) in references to the Start button.
+
+**Example**  
+You'll find the Start ![](media/start-button-start-menu/967781121.png) button on the taskbar.

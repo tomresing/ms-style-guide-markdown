@@ -13,14 +13,14 @@ function textValue(html, key) {
 export function extractMetadata(html, pageUrl) {
   const { document } = parseHTML(html);
   const canonicalUrl = document.querySelector('link[rel="canonical"]')?.getAttribute('href') ?? pageUrl;
+  const summary = metaValue(document, 'description') ?? null;
+
   const metadata = {
     title: metaValue(document, 'title') ?? document.title ?? null,
-    description: metaValue(document, 'description'),
-    author: metaValue(document, 'author'),
+    summary,
     canonical_url: canonicalUrl,
     ms_date: metaValue(document, 'ms.date') ?? textValue(html, 'ms.date'),
-    updated_at: metaValue(document, 'updated_at') ?? textValue(html, 'updated_at'),
-    source_path: textValue(html, 'source_path')
+    updated_at: metaValue(document, 'updated_at') ?? textValue(html, 'updated_at')
   };
   return Object.fromEntries(Object.entries(metadata).filter(([, value]) => value));
 }

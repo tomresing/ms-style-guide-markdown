@@ -1,12 +1,10 @@
 ---
-title: Writing for All Abilities - Microsoft Style Guide
-description: This article outlines Microsoft style guidelines for writing in
-  order to improve accessibility.
-author: ProfessorKendrick
+title: Writing for All Abilities
+summary: This article outlines Microsoft style guidelines for writing in order
+  to improve accessibility.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/accessibility/writing-all-abilities
 ms_date: 2025-01-22T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/accessibility/writing-all-abilities
 ---
 
 ## Writing for all abilities

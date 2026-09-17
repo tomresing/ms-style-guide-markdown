@@ -1,20 +1,16 @@
 ---
 title: "@mentions"
-description: Learn how to effectively use @mentions in your writing to draw
+summary: Learn how to effectively use @mentions in your writing to draw
   attention to specific individuals.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/numbers-symbols/mentions
 ms_date: 2021-09-21T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/numbers-symbols/mentions
 ---
 
-## Feedback
+A feature that enables users to draw someone's attention to a message, comment, or calendar meeting or event by adding the @ symbol followed by the person's name to the body of the message or item.
 
-Was this page helpful?
+When this happens, the person is automatically notified that they were mentioned.
 
-No
+Example
 
----
-
-- Last updated on 2025-06-30
+@SanjibSahu, could you look at this?

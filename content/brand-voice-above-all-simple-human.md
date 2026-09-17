@@ -1,12 +1,10 @@
 ---
-title: Microsoft's brand voice; above all, simple and human - Microsoft Style Guide
-description: Discusses Microsoft's brand voice, which is simple and human, such
-  as "what" we say, our message, and "how" we say it, our voice.
-author: ProfessorKendrick
+title: Microsoft's brand voice; above all, simple and human
+summary: Discusses Microsoft's brand voice, which is simple and human, such as
+  "what" we say, our message, and "how" we say it, our voice.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/brand-voice-above-all-simple-human
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/brand-voice-above-all-simple-human
 ---
 
 ## Microsoft's brand voice: Above all, simple and human

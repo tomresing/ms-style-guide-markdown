@@ -1,20 +1,22 @@
 ---
-title: Don't compress line spacing - Microsoft Style Guide
-description: Discusses that the amount of vertical space between lines of text
-  in a paragraph, called line spacing, can help or hinder reading.
-author: ProfessorKendrick
+title: Don't compress line spacing
+summary: Discusses that the amount of vertical space between lines of text in a
+  paragraph, called line spacing, can help or hinder reading.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/text-formatting/using-type/dont-compress-line-spacing
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/text-formatting/using-type/dont-compress-line-spacing
 ---
 
-## Feedback
+## Don't compress line spacing
 
-Was this page helpful?
+The amount of vertical space between lines of text in a paragraph, called *line spacing,*can help or hinder reading. Adequate line spacing helps readers find their way from the end of one line to the beginning of the next.
 
-No
+If you’re using a template, don’t change the line spacing. If you’re not, ask a designer for advice if you can.
 
----
+If you need to modify line spacing later, change it in the styles, not in individual paragraphs, so spacing remains consistent throughout the content. Never reduce line spacing to fit more text on a slide or page. Edit the text instead.
 
-- Last updated on 2022-06-24
+| **Font size** | **Line spacing** |
+| --- | --- |
+| Body text (up to 14 points) | 120% minimum |
+| Subheadings (14–36 points) | 110% minimum |
+| Headings (36 points or larger) | 120% maximum |

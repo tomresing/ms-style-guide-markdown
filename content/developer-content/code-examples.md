@@ -1,12 +1,10 @@
 ---
-title: Code examples - Microsoft Style Guide
-description: Describes code examples, which illustrate how to use a programming
+title: Code examples
+summary: Describes code examples, which illustrate how to use a programming
   element to implement specific functionality.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/developer-content/code-examples
 ms_date: 2019-08-07T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/developer-content/code-examples
 ---
 
 ## Code examples

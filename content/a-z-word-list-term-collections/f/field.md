@@ -1,20 +1,14 @@
 ---
-title: field - Microsoft Style Guide
-description: Describes guidelines to use 'field' in Microsoft documents and
-  provides alternate examples.
-author: ProfessorKendrick
+title: field
+summary: Describes guidelines to use 'field' in Microsoft documents and provides
+  alternate examples.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/f/field
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/f/field
 ---
 
-## Feedback
+## field
 
-Was this page helpful?
+Don't use to refer to a text-entry box. Refer to the box by its label. If you must use a descriptor, use *box* instead of *field*.
 
-No
-
----
-
-- Last updated on 2022-06-24
+It's OK to use *field* to refer to Word field codes, in a database context, and in other technical contexts.

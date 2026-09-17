@@ -1,12 +1,10 @@
 ---
-title: Content planning - Microsoft Style Guide
-description: Discusses content planning and how great content starts with a plan
+title: Content planning
+summary: Discusses content planning and how great content starts with a plan
   that begins with questions, such as who is your audience?
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/content-planning
 ms_date: 2025-03-24T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/content-planning
 ---
 
 ## Content planning

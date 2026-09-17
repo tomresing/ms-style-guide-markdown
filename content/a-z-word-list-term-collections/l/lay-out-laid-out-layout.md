@@ -1,20 +1,21 @@
 ---
-title: lay out, laid out, layout - Microsoft Style Guide
-description: Guidelines for using the terms lay out, laid out and layout in
+title: lay out, laid out, layout
+summary: Guidelines for using the terms lay out, laid out and layout in
   Microsoft documents.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/l/lay-out-laid-out-layout
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/l/lay-out-laid-out-layout
 ---
 
-## Feedback
+## lay out, laid out, layout
 
-Was this page helpful?
+In formatting discussions:
 
-No
+- Use *lay out* as a verb to describe positioning elements on a page.
+- Use *laid out* as a verb in the past tense.
+- Use *layout* to describe the result of laying out elements on a page.
 
----
-
-- Last updated on 2022-06-24
+**Examples**  
+Lay out complex information in a table to make it easier to read.  
+Add formatting to your table after it's laid out.  
+A table layout clarifies complex information.

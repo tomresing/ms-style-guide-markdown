@@ -1,19 +1,18 @@
 ---
-title: handle - Microsoft Style Guide
-description: Describes how to use the term "handle" in Microsoft content.
-author: ProfessorKendrick
+title: handle
+summary: Describes how to use the term "handle" in Microsoft content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/h/handle
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/h/handle
 ---
 
-## Feedback
+## handle
 
-Was this page helpful?
+When you use *handle* to describe a token that's temporarily assigned to a device or object to identify and provide access to the device, insert a space between the word *handle* and the sequential number.
 
-No
+**Examples**  
+handle 0  
+handle 1  
+handle 2
 
----
-
-- Last updated on 2022-06-24
+To describe a handle in UI that the customer uses to move or size an object, use *move handle* or *sizing handle*. Don't use *size handle, grab handle, little box,* or similar phrases.

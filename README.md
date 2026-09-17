@@ -27,7 +27,7 @@ starts a full scrape. Use `--force` for a manual rebuild.
 ## Frontmatter
 
 Each generated page contains stable source metadata including `title`,
-`source_url`, `canonical_url`, `ms_date`, `updated_at`, and `source_path`.
+`summary`, `canonical_url`, `ms_date`, and `updated_at`.
 
 ## Automation
 

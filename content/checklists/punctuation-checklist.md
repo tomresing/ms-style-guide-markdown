@@ -1,13 +1,11 @@
 ---
 title: Punctuation checklist
-description: Master punctuation in your writing with this comprehensive
-  checklist. Learn how to use periods, commas, colons, and more effectively to
-  enhance readability and clarity.
-author: ProfessorKendrick
+summary: Master punctuation in your writing with this comprehensive checklist.
+  Learn how to use periods, commas, colons, and more effectively to enhance
+  readability and clarity.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/checklists/punctuation-checklist
 ms_date: 2022-02-03T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/checklists/punctuation-checklist
 ---
 
 Keep it simple.

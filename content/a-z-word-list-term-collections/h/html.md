@@ -1,19 +1,11 @@
 ---
-title: HTML - Microsoft Style Guide
-description: Describes how to use the term "HTML" in Microsoft content.
-author: ProfessorKendrick
+title: HTML
+summary: Describes how to use the term "HTML" in Microsoft content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/h/html
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/h/html
 ---
 
-## Feedback
+## HTML
 
-Was this page helpful?
-
-No
-
----
-
-- Last updated on 2022-06-24
+Don't spell out. If you have a reason to spell out, use *Hypertext Markup Language.*

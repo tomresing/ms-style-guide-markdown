@@ -1,12 +1,10 @@
 ---
-title: Scannable content - Microsoft Style Guide
-description: Describes scannable content and that the volume of content
-  available to customers is overwhelming.
-author: ProfessorKendrick
+title: Scannable content
+summary: Describes scannable content and that the volume of content available to
+  customers is overwhelming.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/scannable-content/
 ms_date: 2023-06-20T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/scannable-content/
 ---
 
 ## Scannable content

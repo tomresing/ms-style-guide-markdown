@@ -1,20 +1,18 @@
 ---
-title: back end, back-end - Microsoft Style Guide
-description: This topic defines guidelines for using 'back end' or 'back-end' in
+title: back end, back-end
+summary: This topic defines guidelines for using 'back end' or 'back-end' in
   Microsoft content.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/b/back-end
 ms_date: 2026-04-23T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/b/back-end
 ---
 
-## Feedback
+## back end, back-end
 
-Was this page helpful?
+In content for a general audience, don't use as a synonym for *server*, *operating system*, *database*, or *network*.
 
-No
+In content for a technical audience, it's OK to use *back end* (noun) and *back-end* (adjective that precedes a noun) if it's necessary for accuracy.
 
----
-
-- Last updated on 2026-04-28
+**Examples**  
+Verify that the database is sending information to the dashboard.  
+Create two virtual machines to use as back-end servers.

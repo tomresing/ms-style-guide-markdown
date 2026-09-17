@@ -1,19 +1,18 @@
 ---
-title: join - Microsoft Style Guide
-description: Describes how to use the word "join" in Microsoft content.
-author: ProfessorKendrick
+title: join
+summary: Describes how to use the word "join" in Microsoft content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/j/join
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/j/join
 ---
 
-## Feedback
+## join
 
-Was this page helpful?
+Don't use to mean *embed*.
 
-No
+In discussions about databases and related products, use *j* *oin* only to refer to a relationship or association between fields in different tables.
 
----
-
-- Last updated on 2022-06-24
+**Examples**  
+If you join numeric fields that don't have matching **FieldSize** property settings, Microsoft Access might not find all the matching records when you run the query.  
+When you add fields from both tables to the query design grid, the default, or inner, join tells the query to check for matching values in the join fields.  
+To embed one object into another, select **Paste** on the **Edit** menu.

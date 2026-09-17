@@ -1,20 +1,12 @@
 ---
-title: code point - Microsoft Style Guide
-description: Describes how to style the term 'code point' in Microsoft content
-  as two words rather than one.
-author: ProfessorKendrick
+title: code point
+summary: Describes how to style the term 'code point' in Microsoft content as
+  two words rather than one.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/c/code-point
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/c/code-point
 ---
 
-## Feedback
+## code point
 
-Was this page helpful?
-
-No
-
----
-
-- Last updated on 2026-07-06
+Two words.

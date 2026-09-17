@@ -1,21 +1,20 @@
 ---
-title: search, search and replace - Microsoft Style Guide
-description: In this article, learn about style guidelines for using the term
+title: search, search and replace
+summary: In this article, learn about style guidelines for using the term
   'search and replace' in Microsoft documents and other terms you can use in its
   place.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/search-and-replace
 ms_date: 2018-01-19T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/search-and-replace
 ---
 
-## Feedback
+## search, search and replace
 
-Was this page helpful?
+Don't use *search and replace* to describe finding and replacing things in a document or other location. Use *find* and *replace* instead.
 
-No
+Use *search* and *replace* as verbs, not as nouns or adjectives.
 
----
+**Example**  
+Search your document.
 
-- Last updated on 2022-06-24
+**See also** [find and replace](../f/find-replace)

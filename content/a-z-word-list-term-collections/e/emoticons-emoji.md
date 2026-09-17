@@ -1,12 +1,10 @@
 ---
-title: emoji, emoticons - Microsoft Style Guide
-description: Describes guidelines for using emoji and emoticons, including
+title: emoji, emoticons
+summary: Describes guidelines for using emoji and emoticons, including
   accessibility considerations.
-author: ProfessorKendrick
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/e/emoticons-emoji
 ms_date: 2026-04-09T00:00:00Z
 updated_at: 2026-07-06T19:24:00Z
-source_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/e/emoticons-emoji
 ---
 
 ## emoji, emoticons
