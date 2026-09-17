@@ -6,10 +6,12 @@
   "scripts": {
     "scrape": "node src/cli.js scrape",
     "check-updates": "node src/cli.js check-updates",
+    "count": "node src/cli.js count",
     "test": "node --test"
   },
   "dependencies": {
     "defuddle": "^0.7.0",
+    "js-tiktoken": "^1.0.21",
     "linkedom": "^0.18.12",
     "yaml": "^2.8.1"
   }
