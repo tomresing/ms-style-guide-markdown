@@ -3,6 +3,15 @@
 Scrape the Microsoft Writing Style Guide into Markdown with YAML frontmatter using
 [Defuddle](https://defuddle.md/docs).
 
+## Purpose
+
+This repository provides a clean, structured, and versioned copy of the guide for
+other projects to consume. Markdown and YAML frontmatter are easier to index,
+search, import, and use in offline or automated workflows than the website's HTML.
+Stable local paths, source URLs, and update metadata also let downstream projects
+pin revisions, review changes, and check freshness while retaining the Microsoft
+website as the authoritative source.
+
 ## Commands
 
 ```sh
