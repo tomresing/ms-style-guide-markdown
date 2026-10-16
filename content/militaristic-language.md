@@ -4,7 +4,7 @@ summary: Provides guidelines to avoid overly violent or militaristic language in
   everyday communications.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/militaristic-language
 ms_date: 2024-04-17T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Militaristic language

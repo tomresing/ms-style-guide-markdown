@@ -4,7 +4,7 @@ summary: In this article, learn about style guidelines for using the terms
   'check', 'checkbox, and 'check mark' in Microsoft documents.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/c/check-checkbox-check-mark
 ms_date: 2023-11-02T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## check, checkbox, check mark

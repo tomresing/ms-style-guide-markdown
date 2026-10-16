@@ -5,7 +5,7 @@ summary: Discusses clarify intent before acting, on structural and technical
   conversational cues.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/structural-technical-considerations
 ms_date: 2019-02-21T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Structural and technical considerations

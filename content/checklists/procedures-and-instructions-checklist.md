@@ -6,7 +6,7 @@ summary: Discover best practices for writing clear and concise procedures and
   enhance user experience and accessibility.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/checklists/procedures-and-instructions-checklist
 ms_date: 2026-03-18T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 In the best-case scenario, the UI is so clear and task driven that you don't need additional instructions. When the task is more complex or involves more than one UI, look for the simplest way to present it. That might be:

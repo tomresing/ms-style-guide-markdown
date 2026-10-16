@@ -5,7 +5,7 @@ summary: Discusses that consistent text formatting helps readers locate and
   text elements.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/text-formatting/formatting-common-text-elements
 ms_date: 2025-03-26T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Formatting common text elements

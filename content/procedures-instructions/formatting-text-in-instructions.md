@@ -4,7 +4,7 @@ summary: Discusses that consistent text formatting helps readers locate and
   interpret information, such as instructions.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/procedures-instructions/formatting-text-in-instructions
 ms_date: 2026-03-10T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Formatting text in instructions

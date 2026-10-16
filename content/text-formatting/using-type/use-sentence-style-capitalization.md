@@ -4,7 +4,7 @@ summary: Instructs to use sentence-style capitalization in which you capitalize
   only the first word of a sentence or phrase and proper nouns.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/text-formatting/using-type/use-sentence-style-capitalization
 ms_date: 2018-01-19T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Use sentence-style capitalization

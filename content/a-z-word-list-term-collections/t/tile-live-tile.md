@@ -4,7 +4,7 @@ summary: Describes how to implement the terms 'tile' and 'Live Tile' in
   Microsoft content and clarifies to capitalize 'Live Tile'.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/t/tile-live-tile
 ms_date: 2018-07-31T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## tile, Live Tile

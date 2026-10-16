@@ -6,7 +6,7 @@ summary: Learn how to effectively reference numbers in your writing with this
   decimals, and number ranges.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/checklists/numbers-checklist
 ms_date: 2025-04-11T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 When you write about numbers used in examples or UI, duplicate them exactly as they appear in the UI. In all other content, follow these guidelines. For detailed guidelines, see [Numbers](../numbers).

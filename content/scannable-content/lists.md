@@ -5,7 +5,7 @@ summary: Discusses lists, which are a great way to present complex text in a way
   seven items.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/scannable-content/lists
 ms_date: 2023-06-14T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Lists

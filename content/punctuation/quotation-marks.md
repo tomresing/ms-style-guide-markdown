@@ -4,7 +4,7 @@ summary: Discusses that in most content, use double quotation marks (" ") not
   single quotation marks (' '). In most content, use straight quotation marks.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/punctuation/quotation-marks
 ms_date: 2024-10-17T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Quotation marks

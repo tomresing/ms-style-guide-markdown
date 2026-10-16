@@ -4,7 +4,7 @@ summary: This topic describes guidelines for using 'disable', 'disables', or
   'disabled' to refer to product functionality in Microsoft content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/d/disable-disabled
 ms_date: 2026-04-23T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## disable, disables, disabled (functionality)

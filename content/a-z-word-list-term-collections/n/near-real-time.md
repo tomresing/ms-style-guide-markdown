@@ -3,7 +3,7 @@ title: near real time, near-real-time
 summary: Learn how to use 'near real time' and 'near-real-time' in Microsoft content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/n/near-real-time
 ms_date: 2026-04-23T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## near real time, near-real-time

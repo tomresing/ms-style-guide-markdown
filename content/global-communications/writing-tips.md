@@ -4,7 +4,7 @@ summary: Discusses content, such as writing tips, that's easy to read and tends
   to be easy to localize and translate.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/global-communications/writing-tips
 ms_date: 2023-06-14T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Writing tips

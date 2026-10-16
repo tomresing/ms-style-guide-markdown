@@ -4,7 +4,7 @@ summary: Describes process of writing step-by-step instructions and outlines
   processes with examples for complex and simple procedures.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/procedures-instructions/writing-step-by-step-instructions
 ms_date: 2026-03-18T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Writing step-by-step instructions

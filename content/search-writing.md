@@ -4,7 +4,7 @@ summary: Customers find content in a variety of ways, such as search, but good
   writing that addresses customer needs always helps.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/search-writing
 ms_date: 2018-01-19T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Search and writing

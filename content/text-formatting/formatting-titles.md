@@ -4,7 +4,7 @@ summary: Instructs to follow conventions, such as title-style capitalization and
   italics, for formatting titles, like games and books.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/text-formatting/formatting-titles
 ms_date: 2024-02-22T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Formatting titles

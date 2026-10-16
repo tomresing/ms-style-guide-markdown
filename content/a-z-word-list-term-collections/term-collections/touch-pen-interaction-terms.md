@@ -4,7 +4,7 @@ summary: Describes how to refer to touch and pen interactions and provides a
   list that outlines the usage for various touch and pen interaction terms.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/touch-pen-interaction-terms
 ms_date: 2019-09-21T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 Today's customer can interact with UI in a variety of ways. This section covers terms for UI interactions done with gestures of the hand or body and tablet pen.

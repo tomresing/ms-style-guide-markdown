@@ -5,7 +5,7 @@ summary: Discusses content for developers and IT professionals as more technical
   still apply.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/developer-content/
 ms_date: 2019-08-06T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Developer content

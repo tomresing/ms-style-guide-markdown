@@ -4,7 +4,7 @@ summary: Discusses that if you're writing for the web, assume your content will
   be used on a variety of devices. Many websites today are responsive.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/responsive-content
 ms_date: 2026-04-03T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Responsive content

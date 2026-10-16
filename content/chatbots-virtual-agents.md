@@ -4,7 +4,7 @@ summary: Discusses chatbots and virtual agents, which is a type of bot that can
   be used to provide information and answers, and complete tasks.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/
 ms_date: 2019-02-21T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Chatbots and virtual agents

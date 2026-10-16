@@ -4,7 +4,7 @@ summary: This article outlines use of the word box per Microsoft style
   guidelines, with examples.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/b/box
 ms_date: 2021-04-02T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## box

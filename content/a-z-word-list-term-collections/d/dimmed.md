@@ -4,7 +4,7 @@ summary: Describes guidelines to use the word 'dimmed' in Microsoft documents
   and provides correct examples.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/d/dimmed
 ms_date: 2021-04-02T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## dimmed

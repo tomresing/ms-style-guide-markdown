@@ -4,7 +4,7 @@ summary: Describes scannable content and that the volume of content available to
   customers is overwhelming.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/scannable-content/
 ms_date: 2023-06-20T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Scannable content

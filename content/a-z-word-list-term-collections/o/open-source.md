@@ -4,7 +4,7 @@ summary: Describes guidelines to use 'open source' or 'open-source' in Microsoft
   documents. Lowercase unless you're talking about the Open Source Initiative.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/o/open-source
 ms_date: 2018-01-19T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## open source, open-source

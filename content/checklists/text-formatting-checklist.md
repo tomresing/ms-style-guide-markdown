@@ -5,7 +5,7 @@ summary: Ensure your text is clear and professional with this text-formatting
   consistency and readability in your documentation.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/checklists/text-formatting-checklist
 ms_date: 2018-02-23T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 - Use the Segoe font family.

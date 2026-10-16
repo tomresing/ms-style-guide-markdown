@@ -5,7 +5,7 @@ summary: Describes how to refer to phone numbers in content and provides
   content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/p/phone
 ms_date: 2022-05-13T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## phone, phone number

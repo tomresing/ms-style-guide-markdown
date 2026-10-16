@@ -5,7 +5,7 @@ summary: Instructs not to use common words in new ways, such as bucketize to
   uses.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/word-choice/dont-use-common-words-in-new-ways
 ms_date: 2024-08-26T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Don't use common words in new ways

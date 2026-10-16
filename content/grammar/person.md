@@ -4,7 +4,7 @@ summary: Discusses that in grammar, person refers to the point of view
   represented by a statement and determines which pronoun to use.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/grammar/person
 ms_date: 2022-06-24T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Person

@@ -4,7 +4,7 @@ summary: Describes how to use the terms 'cut' and 'cut-and-paste' in Microsoft
   content depending on context and provides examples of their usage.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/c/cut-and-paste
 ms_date: 2018-01-19T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## cut, cut-and-paste

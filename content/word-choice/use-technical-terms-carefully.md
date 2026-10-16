@@ -5,7 +5,7 @@ summary: Instructs to use technical terms carefully. Use them when they're the
   term will do.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/word-choice/use-technical-terms-carefully
 ms_date: 2024-08-26T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Use technical terms carefully

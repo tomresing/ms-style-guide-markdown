@@ -4,7 +4,7 @@ summary: This article provides Microsoft accessibility style guidelines on
   colors and patterns in text, graphics, and design.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/accessibility/colors-patterns-text-graphics-design
 ms_date: 2018-01-19T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Colors and patterns in text, graphics, and design

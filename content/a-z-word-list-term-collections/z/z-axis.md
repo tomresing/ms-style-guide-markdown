@@ -4,7 +4,7 @@ summary: Discusses that in 3D charts, the z-axis shows depth and generally
   represents values, but instructs to lowercase and hyphenate the z-axis.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/z/z-axis
 ms_date: 2018-01-19T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## z-axis

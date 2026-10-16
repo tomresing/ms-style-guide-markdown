@@ -4,7 +4,7 @@ summary: Describes how to include cloud-computing terms in Microsoft content and
   provides a table that outlines the usage for various cloud-computing terms.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/cloud-computing-terms
 ms_date: 2021-12-13T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Cloud-computing terms

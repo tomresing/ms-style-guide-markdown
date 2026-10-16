@@ -4,7 +4,7 @@ summary: Instructs to lowercase and hyphenate the term "y-axis," but on first
   mention, refer to the y-axis as the value (y) axis.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/y/y-axis
 ms_date: 2018-01-19T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## y-axis

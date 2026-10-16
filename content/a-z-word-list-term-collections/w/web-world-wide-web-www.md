@@ -4,7 +4,7 @@ summary: Describes how to implement the terms 'web', 'World Wide Web', and 'WWW'
   in Microsoft content and provides a link to the URLs and web addresses topic.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/w/web-world-wide-web-www
 ms_date: 2019-08-01T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## web, World Wide Web, WWW

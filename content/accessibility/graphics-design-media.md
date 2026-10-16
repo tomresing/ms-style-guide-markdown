@@ -4,7 +4,7 @@ summary: This article outlines Microsoft accessibility style guidelines for
   graphics, design, and media.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/accessibility/graphics-design-media
 ms_date: 2026-04-03T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Graphics, design, and media

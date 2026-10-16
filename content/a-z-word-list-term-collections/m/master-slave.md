@@ -5,7 +5,7 @@ summary: Describes the master and slave terms as needing to be replaced by the
   content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/m/master-slave
 ms_date: 2020-08-04T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## master/slave

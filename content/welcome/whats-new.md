@@ -5,7 +5,7 @@ summary: Provides a table that shows a history of recent updates to the
   various articles.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/welcome/whats-new
 ms_date: 2026-07-02T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## What's new

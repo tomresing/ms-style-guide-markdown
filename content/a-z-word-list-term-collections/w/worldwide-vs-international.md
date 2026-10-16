@@ -4,7 +4,7 @@ summary: Instructs to use "worldwide" regarding "worldwide vs. international" to
   describe something that encompasses all regions or involves the entire world.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/w/worldwide-vs-international
 ms_date: 2020-11-24T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## worldwide vs. international

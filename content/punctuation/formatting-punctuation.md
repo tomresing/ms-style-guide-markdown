@@ -4,7 +4,7 @@ summary: Instructs that in general, format punctuation in the same font style as
   the main content of a sentence or phrase.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/punctuation/formatting-punctuation
 ms_date: 2018-01-19T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Formatting punctuation

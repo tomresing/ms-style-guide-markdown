@@ -4,7 +4,7 @@ summary: Instructs to use the term "workstream" as one word without a hyphen
   with an example.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/w/workstream
 ms_date: 2021-05-31T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## workstream

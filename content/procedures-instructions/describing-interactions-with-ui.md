@@ -5,7 +5,7 @@ summary: Describes how to refer to various interactions with the UI and provides
   content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-interactions-with-ui
 ms_date: 2026-02-18T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 Customers interact with products by using various input methods: keyboard, mouse, touch, voice, and more. So use generic verbs that work with any input method. Don't use input-specific verbs, such as *click* or *swipe*. Instead, use the verbs listed here.

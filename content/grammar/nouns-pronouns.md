@@ -4,7 +4,7 @@ summary: Discusses proper nouns, which are one of a kind—unique people, places
   and things. Capitalize proper nouns wherever they occur.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/grammar/nouns-pronouns
 ms_date: 2024-08-26T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Nouns and pronouns

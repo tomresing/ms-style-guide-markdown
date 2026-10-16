@@ -3,7 +3,7 @@ title: key result (KR)
 summary: Describes how to use the terms "key result" and "KR" in Microsoft content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/k/key-result-(kr)
 ms_date: 2023-02-22T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## key result (KR)

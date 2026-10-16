@@ -5,7 +5,7 @@ summary: Master the art of capitalization with this comprehensive checklist.
   learn best practices for proper nouns, acronyms, and programming languages.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/checklists/capitalization-checklist
 ms_date: 2018-02-23T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 In general, Microsoft style is sentence-style capitalization.

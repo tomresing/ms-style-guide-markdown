@@ -4,7 +4,7 @@ summary: Describes how to refer to a status bar in content and provides an
   example of referring to a status bar in content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/status-bar
 ms_date: 2018-01-19T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## status bar

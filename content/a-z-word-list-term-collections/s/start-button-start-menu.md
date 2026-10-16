@@ -4,7 +4,7 @@ summary: Describes how to refer to the Start button and Start menu in content
   and provides an example of referring to the Start button in content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/start-button-start-menu
 ms_date: 2019-09-21T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Start button, Start menu

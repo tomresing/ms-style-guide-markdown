@@ -4,7 +4,7 @@ summary: Describes how to implement headings in content and outlines how to
   write, format, use run-in headings, and provides multiple example headings.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/scannable-content/headings
 ms_date: 2018-07-24T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Headings

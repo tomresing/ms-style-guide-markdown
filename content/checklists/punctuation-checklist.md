@@ -5,7 +5,7 @@ summary: Master punctuation in your writing with this comprehensive checklist.
   readability and clarity.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/checklists/punctuation-checklist
 ms_date: 2022-02-03T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 Keep it simple.

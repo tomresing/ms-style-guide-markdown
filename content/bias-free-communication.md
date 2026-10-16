@@ -5,7 +5,7 @@ summary: Describes Microsoft's prioritization of inclusive language and
   content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/bias-free-communication
 ms_date: 2024-04-18T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Bias-free communication

@@ -4,7 +4,7 @@ summary: This article outlines use of the term and so on per Microsoft style
   guidelines, with examples.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/a/and-so-on
 ms_date: 2019-06-27T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## and so on

@@ -4,7 +4,7 @@ summary: Defines guidelines for using 'friendly name' in Microsoft documents,
   and provides an alternative examples.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/f/friendly-name
 ms_date: 2018-01-19T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## friendly name

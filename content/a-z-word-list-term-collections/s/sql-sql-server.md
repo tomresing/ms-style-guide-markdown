@@ -4,7 +4,7 @@ summary: Describes guidelines to use 'SQL' or 'SQL Server' in Microsoft
   documents, and provides usage examples.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/sql-sql-server
 ms_date: 2021-12-09T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## SQL, SQL Server

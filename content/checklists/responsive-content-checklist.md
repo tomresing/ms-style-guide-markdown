@@ -5,7 +5,7 @@ summary: Ensure your content is mobile-friendly with this responsive content
   viewing on tablets and mobile devices.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/checklists/responsive-content-checklist
 ms_date: 2018-02-23T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 Assume that most content will be viewed on tablets or mobile devices by some customers. Plan for it.

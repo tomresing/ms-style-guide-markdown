@@ -4,7 +4,7 @@ summary: Discusses creating a real or sample form that collects personal
   information using guidelines, such as names and contact information.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/global-communications/names-contact-information
 ms_date: 2019-05-06T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Forms that collect information

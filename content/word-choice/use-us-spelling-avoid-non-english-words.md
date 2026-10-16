@@ -4,7 +4,7 @@ summary: Instructs to use US spelling and avoid non-English words. When the
   spelling of English words varies by locale, use the US spelling.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/word-choice/use-us-spelling-avoid-non-english-words
 ms_date: 2018-01-19T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Use US spelling and avoid non-English words

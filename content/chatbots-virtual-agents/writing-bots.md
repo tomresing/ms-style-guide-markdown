@@ -4,7 +4,7 @@ summary: Discusses writing for bots and to be friendly while helping to complete
   the task, such as tailoring the tone of the bot's response to the context.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/writing-bots
 ms_date: 2019-02-21T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Writing for bots

@@ -4,7 +4,7 @@ summary: Describes how to implement the terms 'thanks' and 'thank you' in
   Microsoft content and provides examples of using these terms in content.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/t/thanks-thank-you
 ms_date: 2018-06-26T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## thanks, thank you

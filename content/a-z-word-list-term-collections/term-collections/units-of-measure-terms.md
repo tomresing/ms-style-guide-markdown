@@ -5,7 +5,7 @@ summary: Describes how to refer to units of measure in Microsoft content and
   of measure.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/units-of-measure-terms
 ms_date: 2024-11-26T00:00:00Z
-updated_at: 2026-07-06T19:24:00Z
+updated_at: 2026-10-15T17:49:00Z
 ---
 
 ## Units of measure terms
