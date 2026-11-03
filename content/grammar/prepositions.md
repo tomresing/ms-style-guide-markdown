@@ -3,8 +3,8 @@ title: Prepositions
 summary: Describes prepositional phrases, where to put prepositions in a
   sentence, and which prepositions to use with UI elements.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/grammar/prepositions
-ms_date: 2026-03-18T00:00:00Z
-updated_at: 2026-10-15T17:49:00Z
+ms_date: 2026-10-30T00:00:00Z
+updated_at: 2026-11-02T19:07:00Z
 ---
 
 ## Prepositions
@@ -38,7 +38,7 @@ Whether you use *in* or *on* as the preposition for a UI element depends on what
 | bar (command bar, search bar, taskbar, toolbar) | on |
 | box (list box, search box, text box) | in |
 | command line | on |
-| dialog | in |
+| dialog box | in |
 | list | in |
 | menu | on |
 | page | on |

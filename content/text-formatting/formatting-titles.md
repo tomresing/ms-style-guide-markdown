@@ -1,17 +1,17 @@
 ---
 title: Formatting titles
 summary: Instructs to follow conventions, such as title-style capitalization and
-  italics, for formatting titles, like games and books.
+  italic formatting, for formatting titles, like games and books.
 canonical_url: https://learn.microsoft.com/en-us/style-guide/text-formatting/formatting-titles
-ms_date: 2024-02-22T00:00:00Z
-updated_at: 2026-10-15T17:49:00Z
+ms_date: 2026-10-30T00:00:00Z
+updated_at: 2026-11-02T19:07:00Z
 ---
 
 ## Formatting titles
 
 In general, use sentence-style casing (that is, only capitalize the first word of a title, like at the beginning of a sentence), as this makes content more readable and ensures better localizability.
 
-Use bold font instead of italics for titles to enhance readability and accessibility.
+Use bold formatting instead of italic formatting for titles to enhance readability and accessibility.
 
 There are some notable exceptions to sentence-casing. These include:
 

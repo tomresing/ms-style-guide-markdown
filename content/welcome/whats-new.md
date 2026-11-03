@@ -1,11 +1,10 @@
 ---
 title: What's new?
-summary: Provides a table that shows a history of recent updates to the
-  Microsoft Writing Style Guide and outlines the date and changes made to
-  various articles.
+summary: Find out what's new in the Microsoft Writing Style Guide, with dates
+  and highlights of recent changes
 canonical_url: https://learn.microsoft.com/en-us/style-guide/welcome/whats-new
-ms_date: 2026-07-02T00:00:00Z
-updated_at: 2026-10-15T17:49:00Z
+ms_date: 2026-10-30T00:00:00Z
+updated_at: 2026-11-02T19:07:00Z
 ---
 
 ## What's new
@@ -14,6 +13,12 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 | Date | Article | Change |
 | --- | --- | --- |
+| October 30, 2026 | [privileges](/en-us/style-guide/a-z-word-list-term-collections/p/privileges) | Added a definition of *privileges* as elevated permissions. |
+| October 30, 2026 | [permissions](/en-us/style-guide/a-z-word-list-term-collections/p/permissions) | Added AI context and clarified usage of *permissions*. |
+| October 30, 2026 | [window](/en-us/style-guide/a-z-word-list-term-collections/w/window) | Clarified how *window* differs from dialog boxes and panes. |
+| October 30, 2026 | [dialog box](/en-us/style-guide/a-z-word-list-term-collections/d/dialog-box-dialog-dialogue) | Changed the preferred term to *dialog box* and expanded usage guidance. |
+| October 30, 2026 | [plug and play](/en-us/style-guide/a-z-word-list-term-collections/p/plug-and-play) | Clarified capitalization and hyphenation of *plug and play*. |
+| October 30, 2026 | [font, font style](/en-us/style-guide/a-z-word-list-term-collections/f/font-font-style) | Changed *regular type* to *regular font* and standardized formatting terminology. |
 | July 2, 2026 | [plugin](../a-z-word-list-term-collections/p/plug-in) | Improved the AI-related definition of the term. |
 | July 2, 2026 | [Top 10 tips for Microsoft style and voice](../top-10-tips-style-voice) | Changed wording to clarify that the guidance to avoid end punctuation in titles, headings, and UI text applies mainly to periods and colons. |
 | July 2, 2026 | [visit](../a-z-word-list-term-collections/v/visit) | Expanded the entry to explain when it's OK to use *visit* instead of *go to*. |

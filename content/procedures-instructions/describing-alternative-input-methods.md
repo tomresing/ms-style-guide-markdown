@@ -12,7 +12,7 @@ updated_at: 2026-10-15T17:49:00Z
 
 If you use input-neutral methods in instructions, provide an article that explains how to interact with the product using each available input method. (The article can be in the product or included in documentation or Help.) To support customers regardless of their ability or the device they use, include mice, keyboards, voice recognition devices, game controllers, touch, and other interaction methods.
 
-**Learn more** To learn more about creating accessible content, see [Accessibility guidelines and requirements](/en-us/style-guide/accessibility/accessibility-guidelines-requirements).
+To learn more about creating accessible content, see [Accessibility guidelines and requirements](/en-us/style-guide/accessibility/accessibility-guidelines-requirements).
 
 ## Mouse procedures
 
@@ -73,7 +73,7 @@ This table describes two ways to save a file.
 | **To** | **Do this** |
 | --- | --- |
 | Save changes to the file and continue working. | On the **File** menu, click **Save**. |
-| Save changes to the file and close the program. | On the **File** menu, click **Exit**. If a dialog asks whether you want to save changes, click **Yes**. |
+| Save changes to the file and close the program. | On the **File** menu, click **Exit**. If a dialog box asks whether you want to save changes, click **Yes**. |
 
 **If one step has an alternative,** make that alternative a separate paragraph in the step. In a single-step procedure, an alternative can be separated by the word *or* to make it clear that an alternative is available.  
 **Examples**  
