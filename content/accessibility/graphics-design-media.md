@@ -29,7 +29,7 @@ In general, use clean and simple graphic design. Provide alternate ways to get t
 
 **Provide text alternatives for all elements that aren't text but convey important meaning.** These elements might include images (such as graphics, photographs, charts, or screenshots), audio, video, or animations (including animated GIFs). Here are some examples of text alternatives:
 
-- Alt text for images, unless they're purely decorative. Learn more in [Alternative text (alt text)](/en-us/style-guide/accessibility/alternative-text).
+- Alt text for images, unless they're purely decorative. Learn more in [Alternative text (alt text)](/content/accessibility/alternative-text.md).
 - Closed captions, transcripts, or descriptions for audio and video content. Video content requires both closed captions and audio descriptions. If a video has a thumbnail image, add alt text to the thumbnail.
 - Detailed descriptions in the surrounding text, or in a separate document that you link to, for complex elements or images that require long alt text.
 

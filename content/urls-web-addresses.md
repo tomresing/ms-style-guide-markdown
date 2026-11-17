@@ -56,7 +56,7 @@ Write brief but specific and meaningful link text. Use the title or a descriptio
 **Example**  
 Go to the [Windows upgrade page](https://windows.microsoft.com/upgrade) to learn how to get your free upgrade.
 
-If a link has an image but no link text, the image must have alt text. The alt text should focus on what the link does, not what the image shows. (If a link has both an image and link text, the image can typically be treated as decorative.) Learn more in [Alternative text (alt text)](/en-us/style-guide/accessibility/alternative-text).
+If a link has an image but no link text, the image must have alt text. The alt text should focus on what the link does, not what the image shows. (If a link has both an image and link text, the image can typically be treated as decorative.) Learn more in [Alternative text (alt text)](/content/accessibility/alternative-text.md).
 
 **Examples**  
 Alt text for a link that consists only of a photo of a woman talking on a phone: "Open an online chat session with Microsoft Support."  

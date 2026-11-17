@@ -13,11 +13,11 @@ Microsoft devices and services empower people of all abilities, around the globe
 
 This section provides an overview of accessibility guidelines:
 
-- [Writing for all abilities](/en-us/style-guide/accessibility/writing-all-abilities)
-- [Colors and patterns in text, graphics, and design](/en-us/style-guide/accessibility/colors-patterns-text-graphics-design)
-- [Graphics, design, and media](/en-us/style-guide/accessibility/graphics-design-media)
+- [Writing for all abilities](/content/accessibility/writing-all-abilities.md)
+- [Colors and patterns in text, graphics, and design](/content/accessibility/colors-patterns-text-graphics-design.md)
+- [Graphics, design, and media](/content/accessibility/graphics-design-media.md)
 
-**See also** [Accessibility term collection](/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)
+**See also** [Accessibility term collection](/content/a-z-word-list-term-collections/term-collections/accessibility-terms.md)
 
 **Learn more**  
 [Microsoft Accessibility site](https://www.microsoft.com/accessibility/)

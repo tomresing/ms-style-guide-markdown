@@ -69,4 +69,4 @@ nuke, go nuclear
 strike  
 troops
 
-See also [Bias-free communication](/en-us/style-guide/bias-free-communication)
+See also [Bias-free communication](/content/bias-free-communication.md)

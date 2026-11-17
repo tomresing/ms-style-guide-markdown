@@ -11,17 +11,17 @@ updated_at: 2026-10-15T17:49:00Z
 
 Use the following terms to describe special characters.
 
-**See also** [Keys and keyboard shortcuts term collection](/en-us/style-guide/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts)
+**See also** [Keys and keyboard shortcuts term collection](/content/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts.md)
 
 | Character | Name | Notes |
 | --- | --- | --- |
 | **´** | acute accent | Don't use *accent acute*. |
-| **&** | ampersand | Don't use in place of *and*.      **See** [ampersand (&)](/en-us/style-guide/a-z-word-list-term-collections/a/ampersand) |
+| **&** | ampersand | Don't use in place of *and*.      **See** [ampersand (&)](/content/a-z-word-list-term-collections/a/ampersand.md) |
 | **< >** | angle brackets | The set consists of a *left angle bracket* and a *right angle bracket*. |
-| **'** | apostrophe | This is the same character as a *single quotation mark*.      **See** [Apostrophes](/en-us/style-guide/punctuation/apostrophes) |
+| **'** | apostrophe | This is the same character as a *single quotation mark*.      **See** [Apostrophes](/content/punctuation/apostrophes.md) |
 | **\*** | asterisk | It's OK to use *star* to refer to the key on a phone keypad. |
 | **@** | at sign |  |
-| **\\** | backslash | **See** [Slashes](/en-us/style-guide/punctuation/slashes) |
+| **\\** | backslash | **See** [Slashes](/content/punctuation/slashes.md) |
 | **{ }** | braces | Don't use *curly brackets*.      The set consists of an *opening brace* and a *closing brace*. |
 | **\[ \]** | brackets | The set consists of an *opening bracket* and a *closing bracket*. |
 | **^** | caret, circumflex | Don't use *accent circumflex*. |
@@ -33,39 +33,39 @@ Use the following terms to describe special characters.
 | **÷** | division sign |  |
 | **$** | dollar sign |  |
 | **\[\[ \]\]** | double brackets | The set consists of an *opening double bracket* and a *closing double bracket*. |
-| **…** | ellipsis | One set of three dots is called an *ellipsis* (singular). Use the plural form *ellipses* only when you're referring to multiple sets of three dots.      Don't add space between ellipsis dots.      **See** [Ellipses](/en-us/style-guide/punctuation/ellipses) |
-| **—** | em dash | **See** [Em dashes, en dashes, hyphens, and minus signs](/en-us/style-guide/punctuation/dashes-hyphens) |
-| **–** | en dash | **See** [Em dashes, en dashes, hyphens, and minus signs](/en-us/style-guide/punctuation/dashes-hyphens) |
+| **…** | ellipsis | One set of three dots is called an *ellipsis* (singular). Use the plural form *ellipses* only when you're referring to multiple sets of three dots.      Don't add space between ellipsis dots.      **See** [Ellipses](/content/punctuation/ellipses.md) |
+| **—** | em dash | **See** [Em dashes, en dashes, hyphens, and minus signs](/content/punctuation/dashes-hyphens.md) |
+| **–** | en dash | **See** [Em dashes, en dashes, hyphens, and minus signs](/content/punctuation/dashes-hyphens.md) |
 | **\=** | equal sign | Don't use *equals sign*. |
-| **€** | euro symbol | **See** [euro](/en-us/style-guide/a-z-word-list-term-collections/e/euro) |
-| **!** | exclamation point | Don't use *exclamation mark*.      **See** [Exclamation points](/en-us/style-guide/punctuation/exclamation-points) |
+| **€** | euro symbol | **See** [euro](/content/a-z-word-list-term-collections/e/euro.md) |
+| **!** | exclamation point | Don't use *exclamation mark*.      **See** [Exclamation points](/content/punctuation/exclamation-points.md) |
 | **\`** | grave accent or backtick | Don't use *accent grave*. |
 | **≥** | greater than or equal to sign |  |
 | **\>** | greater than sign | This is the same character as a *right angle bracket* (used in code). |
-| **\-** | hyphen | **See** [Em dashes, en dashes, hyphens, and minus signs](/en-us/style-guide/punctuation/dashes-hyphens) |
+| **\-** | hyphen | **See** [Em dashes, en dashes, hyphens, and minus signs](/content/punctuation/dashes-hyphens.md) |
 | **"** | inch mark | This is the same character as a *quotation mark*. |
 | **≤** | less than or equal to sign |  |
 | **<** | less than sign | This is the same character as a *left angle bracket* (used in code). |
-| **−** | minus sign | Don't use an en dash.      **See** [Em dashes, en dashes, hyphens, and minus signs](/en-us/style-guide/punctuation/dashes-hyphens) |
-| **×** | multiplication sign | Use an asterisk (\*) or the letter *x* instead if necessary to match software.      **See** [multiplication sign (×)](/en-us/style-guide/a-z-word-list-term-collections/m/multiplication-sign) |
+| **−** | minus sign | Don't use an en dash.      **See** [Em dashes, en dashes, hyphens, and minus signs](/content/punctuation/dashes-hyphens.md) |
+| **×** | multiplication sign | Use an asterisk (\*) or the letter *x* instead if necessary to match software.      **See** [multiplication sign (×)](/content/a-z-word-list-term-collections/m/multiplication-sign.md) |
 | **≠** | not equal to sign |  |
 | **#** | number sign, hashtag, pound key | In general, use *number sign* instead of *pound sign* to refer to the symbol.      In social media, use *hashtag*.      Use *pound key* when you're referring to the phone keypad button. |
 | ¶ | paragraph mark |  |
-| **( )** | parentheses | The set consists of an *opening parenthesis* and a *closing parenthesis*.      **See** [parenthesis, parentheses](/en-us/style-guide/a-z-word-list-term-collections/p/parenthesis-parentheses) |
-| **%** | percent sign | **See** [percent, percentage](/en-us/style-guide/a-z-word-list-term-collections/p/percent-percentage) |
+| **( )** | parentheses | The set consists of an *opening parenthesis* and a *closing parenthesis*.      **See** [parenthesis, parentheses](/content/a-z-word-list-term-collections/p/parenthesis-parentheses.md) |
+| **%** | percent sign | **See** [percent, percentage](/content/a-z-word-list-term-collections/p/percent-percentage.md) |
 | **π** | pi |  |
 | **\|** | pipe, vertical bar, or `OR` logical operator |  |
-| **+** | plus sign | Don't use to replace words like *and*, *over*, or *plus*.      **See** [plus sign (+)](/en-us/style-guide/a-z-word-list-term-collections/p/plus-sign) |
+| **+** | plus sign | Don't use to replace words like *and*, *over*, or *plus*.      **See** [plus sign (+)](/content/a-z-word-list-term-collections/p/plus-sign.md) |
 | **±** | plus or minus sign |  |
-| **?** | question mark | **See** [Question marks](/en-us/style-guide/punctuation/question-marks) |
-| **" "** | quotation marks | Don't use *quotes* or *quote marks*.      The set consists of an *opening quotation mark* and a *closing quotation mark*.      **See** [Quotation marks](/en-us/style-guide/punctuation/quotation-marks) |
+| **?** | question mark | **See** [Question marks](/content/punctuation/question-marks.md) |
+| **" "** | quotation marks | Don't use *quotes* or *quote marks*.      The set consists of an *opening quotation mark* and a *closing quotation mark*.      **See** [Quotation marks](/content/punctuation/quotation-marks.md) |
 | **®** | registered trademark symbol |  |
 | **§** | section sign |  |
-| **' '** | single quotation marks | Don't use *single quotes* or *single quote marks*.      The set consists of an *opening single quotation mark* and a *closing single quotation mark*.      **See** [Quotation marks](/en-us/style-guide/punctuation/quotation-marks) |
-| **/** | slash | Don't use *virgule*.      **See** [Slashes](/en-us/style-guide/punctuation/slashes) |
+| **' '** | single quotation marks | Don't use *single quotes* or *single quote marks*.      The set consists of an *opening single quotation mark* and a *closing single quotation mark*.      **See** [Quotation marks](/content/punctuation/quotation-marks.md) |
+| **/** | slash | Don't use *virgule*.      **See** [Slashes](/content/punctuation/slashes.md) |
 | **~** | tilde | Don't use in place of *about* or *approximately.* |
 | **™** | trademark symbol |  |
-| **\_** | underscore | **See** [underline vs. underscore](/en-us/style-guide/a-z-word-list-term-collections/u/underline-vs-underscore) |
+| **\_** | underscore | **See** [underline vs. underscore](/content/a-z-word-list-term-collections/u/underline-vs-underscore.md) |
 
 ## Accessibility considerations for special characters
 

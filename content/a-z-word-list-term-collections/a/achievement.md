@@ -19,4 +19,4 @@ For Microsoft games, use *achievement* only if the achievement is awarded in a p
 You just earned the Superstar achievement!  
 Take a bow—you’ve earned your Superstar.
 
-**See also** [badge](/en-us/style-guide/a-z-word-list-term-collections/b/badge)
+**See also** [badge](/content/a-z-word-list-term-collections/b/badge.md)

@@ -16,11 +16,11 @@ The consistent formatting of text elements, such as command names and URLs, redu
 
 This section covers:
 
-- [Using type](/en-us/style-guide/text-formatting/using-type/index)
-- [Formatting common text elements](/en-us/style-guide/text-formatting/formatting-common-text-elements)
-- [Formatting titles](/en-us/style-guide/text-formatting/formatting-titles)
+- [Using type](/content/text-formatting/using-type.md)
+- [Formatting common text elements](/content/text-formatting/formatting-common-text-elements.md)
+- [Formatting titles](/content/text-formatting/formatting-titles.md)
 
 **See also**  
-[Formatting developer text elements](/en-us/style-guide/developer-content/formatting-developer-text-elements)  
-[Reference documentation](/en-us/style-guide/developer-content/reference-documentation)  
-[Procedures and instructions](/en-us/style-guide/procedures-instructions/index)
+[Formatting developer text elements](/content/developer-content/formatting-developer-text-elements.md)  
+[Reference documentation](/content/developer-content/reference-documentation.md)  
+[Procedures and instructions](/content/procedures-instructions.md)

@@ -47,6 +47,23 @@ test('convertPage strips footer boilerplate and keeps the article body', async (
   assert.doesNotMatch(output, /^topic:|^section_path:|^slug:|^source_path:/m);
 });
 
+test('convertPage rewrites style guide links to code Markdown paths', async () => {
+  const html = `
+  <html><head><title>Link examples</title></head><body><main>
+    <p><a href="/en-us/style-guide/accessibility/alternative-text">Alternative text</a></p>
+    <p><a href="/en-us/style-guide/text-formatting/using-type/index#alignment">Using type</a></p>
+    <p><a href="https://example.test/guide">External guide</a></p>
+    <img src="/en-us/style-guide/accessibility/media/example.png" alt="Example" />
+  </main></body></html>`;
+
+  const output = await convertPage(html, { url: 'https://example.test/links' });
+
+  assert.match(output, /\[Alternative text\]\(\/code\/accessibility\/alternative-text\.md\)/);
+  assert.match(output, /\[Using type\]\(\/code\/text-formatting\/using-type\.md#alignment\)/);
+  assert.match(output, /\[External guide\]\(https:\/\/example\.test\/guide\)/);
+  assert.match(output, /\/en-us\/style-guide\/accessibility\/media\/example\.png/);
+});
+
 test('convertPage preserves article feedback sections', async () => {
   const html = `
   <html><head><title>Editorial guidance</title></head><body><main>

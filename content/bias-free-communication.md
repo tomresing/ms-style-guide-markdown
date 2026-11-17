@@ -65,7 +65,7 @@ Do you have a daughter? Here are a few things you can do to inspire and support 
 
 **Don't use profane or derogatory terms,** such as *pimp* or *bitch.*
 
-**Don't use terms that may carry unconscious racial bias or terms associated with military actions, politics, or historical events and eras.** See [Militaristic language](/en-us/style-guide/militaristic-language) for more information.
+**Don't use terms that may carry unconscious racial bias or terms associated with military actions, politics, or historical events and eras.** See [Militaristic language](/content/militaristic-language.md) for more information.
 
 | **Use this** | **Not this** |
 | --- | --- |
@@ -73,10 +73,10 @@ Do you have a daughter? Here are a few things you can do to inspire and support 
 | perimeter network | demilitarized zone (DMZ) |
 | stop responding | hang |
 
-**Focus on people, not disabilities.** For example, talk about readers who are blind or have low vision and customers with limited dexterity. Don't use words that imply pity, such as *stricken with* or *suffering from.* Don't mention a disability unless it's relevant. For more information, see the [Accessibility term collection](/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms).
+**Focus on people, not disabilities.** For example, talk about readers who are blind or have low vision and customers with limited dexterity. Don't use words that imply pity, such as *stricken with* or *suffering from.* Don't mention a disability unless it's relevant. For more information, see the [Accessibility term collection](/content/a-z-word-list-term-collections/term-collections/accessibility-terms.md).
 
 **Inclusive language** Use title-style capitalization for Asian, Black and African American, Hispanic and Latinx, Native American, Alaska Native, Native Hawaiian, Pacific Islander, and Indigenous Peoples. Microsoft style is to lowercase multiracial and white.
 
 **Learn more** For more information about writing that conveys respect to all people and promotes equal opportunities, see the [Guidelines for Inclusive Language](https://www.linguisticsociety.org/content/guidelines-inclusive-language "Linguistic Society of America's guidelines for inclusive language") from the Linguistic Society of America.
 
-**See also** [Militaristic language](/en-us/style-guide/militaristic-language), [Accessibility guidelines and requirements](/en-us/style-guide/accessibility/accessibility-guidelines-requirements), [Global communications](/en-us/style-guide/global-communications/)
+**See also** [Militaristic language](/content/militaristic-language.md), [Accessibility guidelines and requirements](/content/accessibility/accessibility-guidelines-requirements.md), [Global communications](/content/global-communications.md)

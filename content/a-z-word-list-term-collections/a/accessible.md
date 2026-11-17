@@ -17,4 +17,4 @@ Don't use *accessible* as a synonym for *simple*. Use *easy to learn, easy to us
 Support high-contrast themes to make the app more accessible for customers who have low vision.  
 Reading view sweeps distracting content out of your way, so it's easier to read what you want.
 
-**See also** [assistive](/en-us/style-guide/a-z-word-list-term-collections/a/assistive), [Accessibility guidelines and requirements](/en-us/style-guide/accessibility/accessibility-guidelines-requirements)
+**See also** [assistive](/content/a-z-word-list-term-collections/a/assistive.md), [Accessibility guidelines and requirements](/content/accessibility/accessibility-guidelines-requirements.md)

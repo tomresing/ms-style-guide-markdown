@@ -25,7 +25,7 @@ If you're writing for the web, assume your content will be used on a variety of 
 
 **Choose simple images, and crop extraneous detail.**
 
-**Add alt text to all images that convey important meaning,** to make them accessible. Images that are purely decorative don't need alt text. Learn more in [Alternative text (alt text)](/en-us/style-guide/accessibility/alternative-text).
+**Add alt text to all images that convey important meaning,** to make them accessible. Images that are purely decorative don't need alt text. Learn more in [Alternative text (alt text)](/content/accessibility/alternative-text.md).
 
 **Create infographics carefully.** Provide a way for readers to open an infographic in an application where they can enlarge specific areas. Organize infographics in compact sections that readers can magnify and view on a small screen. Or, present individual sections of the infographic within text, and provide a link to the full infographic.
 

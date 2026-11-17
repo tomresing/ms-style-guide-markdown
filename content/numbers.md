@@ -159,8 +159,8 @@ If you must use the abbreviations, follow these guidelines:
 - Use the decimal form of a number only if it really will save space. In particular, avoid the use of a decimal with *K* — *8.21K* has the same number of characters as *8,210.*
 
 **See also**  
-[Date and time term collection](/en-us/style-guide/a-z-word-list-term-collections/term-collections/date-time-terms)  
-[Units of measure term collection](/en-us/style-guide/a-z-word-list-term-collections/term-collections/units-of-measure-terms)  
-[Bits and bytes term collection](/en-us/style-guide/a-z-word-list-term-collections/term-collections/bits-bytes-terms)  
-[Em dashes, en dashes, hyphens, and minus signs](/en-us/style-guide/punctuation/dashes-hyphens/index)  
-[Percent, percentage](/en-us/style-guide/a-z-word-list-term-collections/p/percent-percentage)
+[Date and time term collection](/content/a-z-word-list-term-collections/term-collections/date-time-terms.md)  
+[Units of measure term collection](/content/a-z-word-list-term-collections/term-collections/units-of-measure-terms.md)  
+[Bits and bytes term collection](/content/a-z-word-list-term-collections/term-collections/bits-bytes-terms.md)  
+[Em dashes, en dashes, hyphens, and minus signs](/content/punctuation/dashes-hyphens.md)  
+[Percent, percentage](/content/a-z-word-list-term-collections/p/percent-percentage.md)

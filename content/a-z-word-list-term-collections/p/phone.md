@@ -14,6 +14,6 @@ Don’t use *telephone number*. Use *phone number* instead.
 
 As a UI label, use *Phone*, not *Phone number*.
 
-For information about referring to mobile phones, see [Computer and device term collection](/en-us/style-guide/a-z-word-list-term-collections/term-collections/computer-device-terms).
+For information about referring to mobile phones, see [Computer and device term collection](/content/a-z-word-list-term-collections/term-collections/computer-device-terms.md).
 
-For information about how to format phone numbers, see [Numbers](/en-us/style-guide/numbers).
+For information about how to format phone numbers, see [Numbers](/content/numbers.md).
