@@ -12,13 +12,13 @@ updated_at: 2026-10-15T17:49:00Z
 
 If you use input-neutral methods in instructions, provide an article that explains how to interact with the product using each available input method. (The article can be in the product or included in documentation or Help.) To support customers regardless of their ability or the device they use, include mice, keyboards, voice recognition devices, game controllers, touch, and other interaction methods.
 
-To learn more about creating accessible content, see [Accessibility guidelines and requirements](/en-us/style-guide/accessibility/accessibility-guidelines-requirements).
+To learn more about creating accessible content, see [Accessibility guidelines and requirements](/content/accessibility/accessibility-guidelines-requirements.md).
 
 ## Mouse procedures
 
 Be consistent in how you list mouse procedures. For example, always list the mouse method before the keyboard method if you document both. Don't combine keyboard and mouse actions as if they were keyboard shortcuts unless space is limited. For example, don't use *Shift+click.* Instead, use *Select Shift while clicking ….*
 
-**See also** [Mouse and mouse interaction term collection](/en-us/style-guide/a-z-word-list-term-collections/term-collections/mouse-mouse-interaction-terms)
+**See also** [Mouse and mouse interaction term collection](/content/a-z-word-list-term-collections/term-collections/mouse-mouse-interaction-terms.md)
 
 ## Joystick procedures
 
@@ -30,7 +30,7 @@ Refer to joystick *controls,* not *options,* when you provide specific joystick 
 
 Always document keyboard procedures for accessibility, even if they're indicated in UI (for example, by underlined letters).
 
-**See also** [Keys and keyboard shortcuts term collection](/en-us/style-guide/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts)
+**See also** [Keys and keyboard shortcuts term collection](/content/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts.md)
 
 ## Pen-computing and touch procedures
 
@@ -45,7 +45,7 @@ Use *tap* and *double-tap* instead of *click* and *double-click* when writing co
 | **flick** | Use to describe moving one or more fingers to scroll through items on the screen. Don't use *scroll*. |
 | **swipe** | Use to describe a short, quick movement in the direction opposite to how the page scrolls. For example, if the page scrolls left or right, swipe an item up or down to select it. |
 
-**See also** [Touch and pen interaction term collection](/en-us/style-guide/a-z-word-list-term-collections/term-collections/touch-pen-interaction-terms)
+**See also** [Touch and pen interaction term collection](/content/a-z-word-list-term-collections/term-collections/touch-pen-interaction-terms.md)
 
 ## Multiple input methods and branching within procedures
 

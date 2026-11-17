@@ -28,4 +28,4 @@ Use the following guidelines when talking about time and place.
 
 - In event locations, include the country or region name.
 
-**See also** [Date and time term collection](/en-us/style-guide/a-z-word-list-term-collections/term-collections/date-time-terms)
+**See also** [Date and time term collection](/content/a-z-word-list-term-collections/term-collections/date-time-terms.md)

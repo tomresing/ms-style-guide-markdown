@@ -56,7 +56,7 @@ Scrub data
 
 ## Formatting headings
 
-**Use sentence-style capitalization** for headings. That means that you capitalize the first word, any proper nouns, and the first word after a colon (if there is one). Everything else is lowercase. To learn more, see [Capitalization](/en-us/style-guide/capitalization).  
+**Use sentence-style capitalization** for headings. That means that you capitalize the first word, any proper nouns, and the first word after a colon (if there is one). Everything else is lowercase. To learn more, see [Capitalization](/content/capitalization.md).  
 **Examples**  
 Say hello to Surface Pro  
 Set up the deployment environment  
@@ -85,7 +85,7 @@ What can we help you find?
 
 **Don't use extra line breaks to increase heading spacing,** especially in web content. In responsive web design, the layout and screen elements (including headings) adjust to the screen size automatically, whether they're viewed on mobile devices, tablets, laptops, or desktops. Extra line breaks might detract from the content appearance on mobile devices.
 
-**Learn more** [Using type](/en-us/style-guide/text-formatting/using-type/index)
+**Learn more** [Using type](/content/text-formatting/using-type.md)
 
 ## Using run-in headings
 

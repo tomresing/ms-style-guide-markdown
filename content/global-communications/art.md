@@ -29,7 +29,7 @@ Use these guidelines to create or choose images that are helpful, legal, and ino
 
 **If you use text in graphics, make sure it's easy to edit.** Automatic translation software won't translate it. If possible, use captions or describe the graphic in text, instead.
 
-**Add alt text to all images that convey important meaning,** to make them accessible. Images that are purely decorative don't need alt text. This guideline also applies to buttons. If a button has an image but no label text, the image must have alt text. The alt text should focus on what the button does, not what the image shows. (If a button has both an image and a label, the image can typically be treated as decorative.) Learn more in [Alternative text (alt text)](/en-us/style-guide/accessibility/alternative-text).
+**Add alt text to all images that convey important meaning,** to make them accessible. Images that are purely decorative don't need alt text. This guideline also applies to buttons. If a button has an image but no label text, the image must have alt text. The alt text should focus on what the button does, not what the image shows. (If a button has both an image and a label, the image can typically be treated as decorative.) Learn more in [Alternative text (alt text)](/content/accessibility/alternative-text.md).
 
 **Store art in a separate file and link to it from within a document** if possible. Localizers can modify art that isn't embedded in the document.
 

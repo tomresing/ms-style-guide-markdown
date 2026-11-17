@@ -13,12 +13,12 @@ This table shows a history of recent updates to the *Microsoft Writing Style Gui
 
 | Date | Article | Change |
 | --- | --- | --- |
-| October 30, 2026 | [privileges](/en-us/style-guide/a-z-word-list-term-collections/p/privileges) | Added a definition of *privileges* as elevated permissions. |
-| October 30, 2026 | [permissions](/en-us/style-guide/a-z-word-list-term-collections/p/permissions) | Added AI context and clarified usage of *permissions*. |
-| October 30, 2026 | [window](/en-us/style-guide/a-z-word-list-term-collections/w/window) | Clarified how *window* differs from dialog boxes and panes. |
-| October 30, 2026 | [dialog box](/en-us/style-guide/a-z-word-list-term-collections/d/dialog-box-dialog-dialogue) | Changed the preferred term to *dialog box* and expanded usage guidance. |
-| October 30, 2026 | [plug and play](/en-us/style-guide/a-z-word-list-term-collections/p/plug-and-play) | Clarified capitalization and hyphenation of *plug and play*. |
-| October 30, 2026 | [font, font style](/en-us/style-guide/a-z-word-list-term-collections/f/font-font-style) | Changed *regular type* to *regular font* and standardized formatting terminology. |
+| October 30, 2026 | [privileges](/content/a-z-word-list-term-collections/p/privileges.md) | Added a definition of *privileges* as elevated permissions. |
+| October 30, 2026 | [permissions](/content/a-z-word-list-term-collections/p/permissions.md) | Added AI context and clarified usage of *permissions*. |
+| October 30, 2026 | [window](/content/a-z-word-list-term-collections/w/window.md) | Clarified how *window* differs from dialog boxes and panes. |
+| October 30, 2026 | [dialog box](/content/a-z-word-list-term-collections/d/dialog-box-dialog-dialogue.md) | Changed the preferred term to *dialog box* and expanded usage guidance. |
+| October 30, 2026 | [plug and play](/content/a-z-word-list-term-collections/p/plug-and-play.md) | Clarified capitalization and hyphenation of *plug and play*. |
+| October 30, 2026 | [font, font style](/content/a-z-word-list-term-collections/f/font-font-style.md) | Changed *regular type* to *regular font* and standardized formatting terminology. |
 | July 2, 2026 | [plugin](../a-z-word-list-term-collections/p/plug-in) | Improved the AI-related definition of the term. |
 | July 2, 2026 | [Top 10 tips for Microsoft style and voice](../top-10-tips-style-voice) | Changed wording to clarify that the guidance to avoid end punctuation in titles, headings, and UI text applies mainly to periods and colons. |
 | July 2, 2026 | [visit](../a-z-word-list-term-collections/v/visit) | Expanded the entry to explain when it's OK to use *visit* instead of *go to*. |

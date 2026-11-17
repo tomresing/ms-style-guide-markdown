@@ -22,7 +22,7 @@ It's OK to use *application* in content for a technical audience, especially to 
 Don't use *application program.*
 
 **See also**  
-[add-in, add-on](/en-us/style-guide/a-z-word-list-term-collections/a/add-in-add-on)  
-[applet](/en-us/style-guide/a-z-word-list-term-collections/a/applet)  
-[tool](/en-us/style-guide/a-z-word-list-term-collections/t/tool)  
-[Control Panel](/en-us/style-guide/a-z-word-list-term-collections/c/control-panel)
+[add-in, add-on](/content/a-z-word-list-term-collections/a/add-in-add-on.md)  
+[applet](/content/a-z-word-list-term-collections/a/applet.md)  
+[tool](/content/a-z-word-list-term-collections/t/tool.md)  
+[Control Panel](/content/a-z-word-list-term-collections/c/control-panel.md)

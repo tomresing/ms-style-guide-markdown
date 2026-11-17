@@ -33,7 +33,7 @@ Capitalize technology terms as proper nouns only when:
 
 If you're not sure whether a term is a proper noun (and thus capitalized) or a common noun (lowercase), check *[Merriam-Webster Dictionary](https://merriam-webster.com/),* and the A–Z word list. Default to lowercase unless there's a compelling reason to capitalize the term.
 
-**Learn more** For guidelines for sentence-style and title-style capitalization, see [Capitalization](/en-us/style-guide/grammar/person).
+**Learn more** For guidelines for sentence-style and title-style capitalization, see [Capitalization](/content/grammar/person.md).
 
 ## Plural nouns
 
@@ -58,7 +58,7 @@ Or refer to a person's role (*customer, employee,* or *client*). It's OK to use 
 
 *They* can be used as a non-binary pronoun for a singular person instead of a binary pronoun (*she* or *he*).
 
-For more guidelines about how to write using gender-neutral pronouns, see [Bias-free communication](/en-us/style-guide/bias-free-communication).
+For more guidelines about how to write using gender-neutral pronouns, see [Bias-free communication](/content/bias-free-communication.md).
 
 ## Pronouns and collective nouns
 
@@ -71,4 +71,4 @@ The company upgraded its cloud storage solution to Microsoft Azure.
 
 ## Using pronouns in product UI
 
-See also [Person](/en-us/style-guide/grammar/person).
+See also [Person](/content/grammar/person.md).

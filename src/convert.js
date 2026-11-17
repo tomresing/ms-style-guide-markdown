@@ -9,7 +9,7 @@ function rewriteStyleGuideLinks(content) {
     let pagePath = pathname.slice('/en-us/style-guide/'.length).replace(/\/+$/, '');
     if (pagePath.endsWith('/index')) pagePath = pagePath.slice(0, -'/index'.length);
     if (!pagePath.endsWith('.md')) pagePath += '.md';
-    return `${link}/code/${pagePath}${suffix}`;
+    return `${link}/content/${pagePath}${suffix}`;
   });
 }
 

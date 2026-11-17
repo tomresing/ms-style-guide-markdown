@@ -11,7 +11,7 @@ updated_at: 2026-10-15T17:49:00Z
 
 Tailor the tone of the bot's responses to the context. If it's something serious—like billing or cybersecurity—be empathetic but brief and straightforward. If it's a more mundane situation (like creating a new account), the tone can be more relaxed. And a bot for Xbox can be lighthearted and casual.
 
-**See** [Microsoft's brand voice](/en-us/style-guide/brand-voice-above-all-simple-human)
+**See** [Microsoft's brand voice](/content/brand-voice-above-all-simple-human.md)
 
 ## Be honest and build trust
 

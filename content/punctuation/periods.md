@@ -13,7 +13,7 @@ Don't use periods in headlines, headings, subheadings, UI titles, UI text, or si
 
 End all sentences with a period, even if they're only two words. Put one space, not two, after a period.
 
-For information about how to use periods in bulleted lists and numbered lists, see [Lists](/en-us/style-guide/scannable-content/lists).
+For information about how to use periods in bulleted lists and numbered lists, see [Lists](/content/scannable-content/lists.md).
 
 **Headline example**  
 Be brief—make every word count

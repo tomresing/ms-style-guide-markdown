@@ -16,10 +16,10 @@ In general, use code style for programmatic or code-related elements. The follow
 The capitalization of developer text elements varies depending on the programming language or operating environment. When you're documenting code, capitalization should follow what the code uses.
 
 **See also**  
-[Capitalization](/en-us/style-guide/capitalization)  
-[Formatting common text elements](/en-us/style-guide/text-formatting/formatting-common-text-elements)  
-[Formatting text in instructions](/en-us/style-guide/procedures-instructions/formatting-text-in-instructions)  
-[Procedures and instructions](/en-us/style-guide/procedures-instructions/index)
+[Capitalization](/content/capitalization.md)  
+[Formatting common text elements](/content/text-formatting/formatting-common-text-elements.md)  
+[Formatting text in instructions](/content/procedures-instructions/formatting-text-in-instructions.md)  
+[Procedures and instructions](/content/procedures-instructions.md)
 
 | **Element** | **Convention** | **Example** |
 | --- | --- | --- |
@@ -65,8 +65,8 @@ The capitalization of developer text elements varies depending on the programmin
 | **Statements** | Code style. | `IMPORTS`   `LIBRARY` |
 | **Structures** | Code style. | `ACCESSTIMEOUT` |
 | **Switches** | Code style. Usually lowercase. | `build: commands` |
-| **UI text or strings** | Treatment varies; see [Formatting text in instructions](/en-us/style-guide/procedures-instructions/formatting-text-in-instructions). Sentence-style capitalization. | Import from file   Create a new resource   See all your resources   Manually trigger a flow   Report a bug |
-| **URLs** | All lowercase for complete URLs. If necessary, line-break long URLs before a slash. Don't hyphenate. Use code style if referring to URLs in code.   **See also** [URLs and web addresses](/en-us/style-guide/urls-web-addresses). | www.microsoft.com   www.microsoft.com/download   `const url = "https://www.microsoft.com"` |
+| **UI text or strings** | Treatment varies; see [Formatting text in instructions](/content/procedures-instructions/formatting-text-in-instructions.md). Sentence-style capitalization. | Import from file   Create a new resource   See all your resources   Manually trigger a flow   Report a bug |
+| **URLs** | All lowercase for complete URLs. If necessary, line-break long URLs before a slash. Don't hyphenate. Use code style if referring to URLs in code.   **See also** [URLs and web addresses](/content/urls-web-addresses.md). | www.microsoft.com   www.microsoft.com/download   `const url = "https://www.microsoft.com"` |
 | **User input** | Usually lowercase, unless case sensitive. Bold. Use italic only for placeholders. | Enter **hello world**   Enter *password* |
 | **Values** | Code style. All uppercase. | `DIB_PAL_COLORS` |
 | **Variables** | Usually code style. | `bEmpty`   `m_nParams`   `file_name` |

@@ -19,7 +19,7 @@ Use these tips to help you edit like a pro, so your final content and design shi
 
 **Read only the headings, and then only the first sentence of every paragraph.** Do they tell a story? Are there gaps? Repeated ideas?
 
-**Check for keywords in titles and headings.** Titles and headings help readers scan and help search engines find your content. Make sure you include relevant keywords in the first few words. While you’re at it, read your first sentence to see if it will make sense as a search engine description. To learn more, see [Search and writing](/en-us/style-guide/search-writing).
+**Check for keywords in titles and headings.** Titles and headings help readers scan and help search engines find your content. Make sure you include relevant keywords in the first few words. While you’re at it, read your first sentence to see if it will make sense as a search engine description. To learn more, see [Search and writing](/content/search-writing.md).
 
 **Search for and remove unnecessary and redundant elements.** Try removing words, sentences, paragraphs, headings, even entire sections. If you don't miss it, leave it out. It’s good for your opening paragraph to summarize the piece at a high level. But don’t repeat phrases verbatim, or include tips or notes found later in the text.
 
@@ -27,4 +27,4 @@ Use these tips to help you edit like a pro, so your final content and design shi
 
 **Take a break.** Leave the finished piece alone for a day. Read it again tomorrow—you may see things you missed.
 
-**Evaluate the voice and personality.** Before you call it done, read it one final time. Can you hear the fresh and modern [Microsoft voice](/en-us/style-guide/brand-voice-above-all-simple-human)? Your writing should sound warm and relaxed, crisp and clear, and ready to lend a hand.
+**Evaluate the voice and personality.** Before you call it done, read it one final time. Can you hear the fresh and modern [Microsoft voice](/content/brand-voice-above-all-simple-human.md)? Your writing should sound warm and relaxed, crisp and clear, and ready to lend a hand.

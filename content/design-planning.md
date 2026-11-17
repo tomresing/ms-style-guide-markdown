@@ -13,7 +13,7 @@ Design is more than a pretty face. It provides a familiar environment for conten
 
 The time to think about design is before you start writing.
 
-Collaborate with your designer and marketing manager or PM to develop the [content strategy](/en-us/style-guide/content-planning).
+Collaborate with your designer and marketing manager or PM to develop the [content strategy](/content/content-planning.md).
 
 If you’re working with a designer, meet early and often. Share your outline, your preliminary drafts, and this style guide. Provide preliminary content early in the process so you can identify and solve issues in the design or content approach.
 
